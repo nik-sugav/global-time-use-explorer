@@ -10,3 +10,5 @@ public/data/**/*.json
 .claude/scheduled_tasks.lock
 __pycache__/
 *.pyc
+.vercel
+.env*
