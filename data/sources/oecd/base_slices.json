@@ -1,0 +1,1262 @@
+[
+  {
+    "country": "AUS",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 238.17,
+      "unpaid_work": 243.17,
+      "personal_care": 657.46,
+      "leisure": 281.2,
+      "other": 20.01
+    },
+    "dataYear": 2006
+  },
+  {
+    "country": "AUT",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 265.64,
+      "unpaid_work": 187.97,
+      "personal_care": 667.66,
+      "leisure": 306.87,
+      "other": 11.86
+    },
+    "dataYear": 2021
+  },
+  {
+    "country": "BEL",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 235.75,
+      "unpaid_work": 191.82,
+      "personal_care": 664.05,
+      "leisure": 339.35,
+      "other": 9.22
+    },
+    "dataYear": 2013
+  },
+  {
+    "country": "CAN",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 336.96,
+      "unpaid_work": 205.29,
+      "personal_care": 655.96,
+      "leisure": 211.27,
+      "other": 30.52
+    },
+    "dataYear": 2022
+  },
+  {
+    "country": "DNK",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 224.82,
+      "unpaid_work": 216.63,
+      "personal_care": 659.36,
+      "leisure": 328.84,
+      "other": 10.35
+    },
+    "dataYear": 2001
+  },
+  {
+    "country": "EST",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 293.06,
+      "unpaid_work": 173.66,
+      "personal_care": 653.82,
+      "leisure": 301.15,
+      "other": 18.3
+    },
+    "dataYear": 2019
+  },
+  {
+    "country": "FIN",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 240.11,
+      "unpaid_work": 185.55,
+      "personal_care": 644.69,
+      "leisure": 329.81,
+      "other": 39.85
+    },
+    "dataYear": 2020
+  },
+  {
+    "country": "FRA",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 204.17,
+      "unpaid_work": 181.1,
+      "personal_care": 752.25,
+      "leisure": 293.54,
+      "other": 8.95
+    },
+    "dataYear": 2009
+  },
+  {
+    "country": "DEU",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 244.05,
+      "unpaid_work": 192.35,
+      "personal_care": 657.6,
+      "leisure": 340.88,
+      "other": 5.11
+    },
+    "dataYear": 2022
+  },
+  {
+    "country": "GRC",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 230.0,
+      "unpaid_work": 184.0,
+      "personal_care": 685.0,
+      "leisure": 335.0,
+      "other": 6.0
+    },
+    "dataYear": 2013
+  },
+  {
+    "country": "HUN",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 237.61,
+      "unpaid_work": 229.16,
+      "personal_care": 683.14,
+      "leisure": 281.35,
+      "other": 8.74
+    },
+    "dataYear": 2010
+  },
+  {
+    "country": "IRL",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 267.96,
+      "unpaid_work": 209.64,
+      "personal_care": 608.91,
+      "leisure": 312.31,
+      "other": 41.17
+    },
+    "dataYear": 2005
+  },
+  {
+    "country": "ITA",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 176.71,
+      "unpaid_work": 219.04,
+      "personal_care": 707.81,
+      "leisure": 323.26,
+      "other": 13.19
+    },
+    "dataYear": 2013
+  },
+  {
+    "country": "JPN",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 368.0,
+      "unpaid_work": 125.0,
+      "personal_care": 640.0,
+      "leisure": 269.0,
+      "other": 37.0
+    },
+    "dataYear": 2021
+  },
+  {
+    "country": "KOR",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 344.45,
+      "unpaid_work": 131.71,
+      "personal_care": 677.85,
+      "leisure": 258.26,
+      "other": 27.73
+    },
+    "dataYear": 2014
+  },
+  {
+    "country": "LVA",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 329.94,
+      "unpaid_work": 196.07,
+      "personal_care": 641.3,
+      "leisure": 268.84,
+      "other": 3.85
+    },
+    "dataYear": 2003
+  },
+  {
+    "country": "LTU",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 315.22,
+      "unpaid_work": 224.47,
+      "personal_care": 645.54,
+      "leisure": 246.61,
+      "other": 8.17
+    },
+    "dataYear": 2003
+  },
+  {
+    "country": "LUX",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 284.69,
+      "unpaid_work": 179.16,
+      "personal_care": 685.67,
+      "leisure": 276.39,
+      "other": 14.06
+    },
+    "dataYear": 2013
+  },
+  {
+    "country": "MEX",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 348.9,
+      "unpaid_work": 256.03,
+      "personal_care": 606.07,
+      "leisure": 202.83,
+      "other": 26.16
+    },
+    "dataYear": 2024
+  },
+  {
+    "country": "NLD",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 242.79,
+      "unpaid_work": 185.56,
+      "personal_care": 681.59,
+      "leisure": 314.76,
+      "other": 15.3
+    },
+    "dataYear": 2016
+  },
+  {
+    "country": "NZL",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 270.0,
+      "unpaid_work": 204.0,
+      "personal_care": 648.0,
+      "leisure": 301.0,
+      "other": 17.0
+    },
+    "dataYear": 2009
+  },
+  {
+    "country": "NOR",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 275.4,
+      "unpaid_work": 185.58,
+      "personal_care": 613.33,
+      "leisure": 353.97,
+      "other": 11.71
+    },
+    "dataYear": 2022
+  },
+  {
+    "country": "POL",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 214.0,
+      "unpaid_work": 248.0,
+      "personal_care": 682.0,
+      "leisure": 261.0,
+      "other": 35.0
+    },
+    "dataYear": 2023
+  },
+  {
+    "country": "PRT",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 295.05,
+      "unpaid_work": 222.55,
+      "personal_care": 675.69,
+      "leisure": 240.67,
+      "other": 6.04
+    },
+    "dataYear": 1999
+  },
+  {
+    "country": "SVN",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 264.63,
+      "unpaid_work": 230.68,
+      "personal_care": 628.13,
+      "leisure": 310.57,
+      "other": 5.99
+    },
+    "dataYear": 2000
+  },
+  {
+    "country": "ESP",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 202.0,
+      "unpaid_work": 216.73,
+      "personal_care": 691.79,
+      "leisure": 316.05,
+      "other": 13.42
+    },
+    "dataYear": 2009
+  },
+  {
+    "country": "SWE",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 293.41,
+      "unpaid_work": 196.5,
+      "personal_care": 622.47,
+      "leisure": 321.48,
+      "other": 6.14
+    },
+    "dataYear": 2010
+  },
+  {
+    "country": "TUR",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 246.32,
+      "unpaid_work": 186.09,
+      "personal_care": 681.8,
+      "leisure": 285.73,
+      "other": 40.1
+    },
+    "dataYear": 2014
+  },
+  {
+    "country": "GBR",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 262.26,
+      "unpaid_work": 194.53,
+      "personal_care": 645.2,
+      "leisure": 305.53,
+      "other": 32.47
+    },
+    "dataYear": 2014
+  },
+  {
+    "country": "USA",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 278.21,
+      "unpaid_work": 197.12,
+      "personal_care": 664.04,
+      "leisure": 279.86,
+      "other": 20.77
+    },
+    "dataYear": 2024
+  },
+  {
+    "country": "BGR",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 281.92,
+      "unpaid_work": 188.97,
+      "personal_care": 723.05,
+      "leisure": 240.97,
+      "other": 5.08
+    },
+    "dataYear": 2020
+  },
+  {
+    "country": "HRV",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 321.46,
+      "unpaid_work": 202.91,
+      "personal_care": 654.78,
+      "leisure": 250.57,
+      "other": 10.28
+    },
+    "dataYear": 2022
+  },
+  {
+    "country": "CHN",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 339.76,
+      "unpaid_work": 163.89,
+      "personal_care": 693.52,
+      "leisure": 227.84,
+      "other": 14.99
+    },
+    "dataYear": 2008
+  },
+  {
+    "country": "IND",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 294.98,
+      "unpaid_work": 191.15,
+      "personal_care": 687.49,
+      "leisure": 254.0,
+      "other": 12.39
+    },
+    "dataYear": 1998
+  },
+  {
+    "country": "ZAF",
+    "gender": "all",
+    "categoryMinutes": {
+      "paid_work_or_study": 240.58,
+      "unpaid_work": 182.28,
+      "personal_care": 695.08,
+      "leisure": 305.9,
+      "other": 16.16
+    },
+    "dataYear": 2010
+  },
+  {
+    "country": "AUS",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 304.06,
+      "unpaid_work": 171.6,
+      "personal_care": 649.25,
+      "leisure": 297.03,
+      "other": 18.06
+    },
+    "dataYear": 2006
+  },
+  {
+    "country": "AUT",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 311.85,
+      "unpaid_work": 138.51,
+      "personal_care": 657.36,
+      "leisure": 321.98,
+      "other": 10.29
+    },
+    "dataYear": 2021
+  },
+  {
+    "country": "BEL",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 273.7,
+      "unpaid_work": 144.17,
+      "personal_care": 648.46,
+      "leisure": 365.17,
+      "other": 8.49
+    },
+    "dataYear": 2013
+  },
+  {
+    "country": "CAN",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 370.92,
+      "unpaid_work": 163.92,
+      "personal_care": 647.91,
+      "leisure": 225.54,
+      "other": 31.71
+    },
+    "dataYear": 2022
+  },
+  {
+    "country": "DNK",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 260.07,
+      "unpaid_work": 186.14,
+      "personal_care": 643.04,
+      "leisure": 339.54,
+      "other": 11.21
+    },
+    "dataYear": 2001
+  },
+  {
+    "country": "EST",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 307.84,
+      "unpaid_work": 139.19,
+      "personal_care": 650.69,
+      "leisure": 324.78,
+      "other": 17.5
+    },
+    "dataYear": 2019
+  },
+  {
+    "country": "FIN",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 257.16,
+      "unpaid_work": 161.99,
+      "personal_care": 628.11,
+      "leisure": 350.29,
+      "other": 42.45
+    },
+    "dataYear": 2020
+  },
+  {
+    "country": "FRA",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 235.13,
+      "unpaid_work": 134.94,
+      "personal_care": 742.96,
+      "leisure": 319.13,
+      "other": 7.84
+    },
+    "dataYear": 2009
+  },
+  {
+    "country": "DEU",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 276.81,
+      "unpaid_work": 151.64,
+      "personal_care": 649.18,
+      "leisure": 358.04,
+      "other": 4.32
+    },
+    "dataYear": 2022
+  },
+  {
+    "country": "GRC",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 276.0,
+      "unpaid_work": 97.0,
+      "personal_care": 689.0,
+      "leisure": 375.0,
+      "other": 3.0
+    },
+    "dataYear": 2013
+  },
+  {
+    "country": "HUN",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 272.66,
+      "unpaid_work": 162.34,
+      "personal_care": 686.29,
+      "leisure": 308.16,
+      "other": 10.55
+    },
+    "dataYear": 2010
+  },
+  {
+    "country": "IRL",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 340.81,
+      "unpaid_work": 126.98,
+      "personal_care": 594.73,
+      "leisure": 337.58,
+      "other": 39.9
+    },
+    "dataYear": 2005
+  },
+  {
+    "country": "ITA",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 220.81,
+      "unpaid_work": 130.71,
+      "personal_care": 710.32,
+      "leisure": 366.1,
+      "other": 12.06
+    },
+    "dataYear": 2013
+  },
+  {
+    "country": "JPN",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 442.0,
+      "unpaid_work": 47.0,
+      "personal_care": 632.0,
+      "leisure": 284.0,
+      "other": 34.0
+    },
+    "dataYear": 2021
+  },
+  {
+    "country": "KOR",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 418.99,
+      "unpaid_work": 48.99,
+      "personal_care": 675.83,
+      "leisure": 272.45,
+      "other": 23.74
+    },
+    "dataYear": 2014
+  },
+  {
+    "country": "LVA",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 376.93,
+      "unpaid_work": 129.73,
+      "personal_care": 639.6,
+      "leisure": 290.48,
+      "other": 3.26
+    },
+    "dataYear": 2003
+  },
+  {
+    "country": "LTU",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 354.26,
+      "unpaid_work": 151.61,
+      "personal_care": 644.32,
+      "leisure": 282.2,
+      "other": 7.61
+    },
+    "dataYear": 2003
+  },
+  {
+    "country": "LUX",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 330.0,
+      "unpaid_work": 121.08,
+      "personal_care": 676.86,
+      "leisure": 299.04,
+      "other": 13.03
+    },
+    "dataYear": 2013
+  },
+  {
+    "country": "MEX",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 453.66,
+      "unpaid_work": 147.36,
+      "personal_care": 600.34,
+      "leisure": 212.84,
+      "other": 25.79
+    },
+    "dataYear": 2024
+  },
+  {
+    "country": "NLD",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 284.94,
+      "unpaid_work": 145.42,
+      "personal_care": 666.23,
+      "leisure": 329.59,
+      "other": 13.83
+    },
+    "dataYear": 2016
+  },
+  {
+    "country": "NZL",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 338.0,
+      "unpaid_work": 141.0,
+      "personal_care": 639.0,
+      "leisure": 306.0,
+      "other": 16.0
+    },
+    "dataYear": 2009
+  },
+  {
+    "country": "NOR",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 302.75,
+      "unpaid_work": 159.93,
+      "personal_care": 595.86,
+      "leisure": 367.09,
+      "other": 14.37
+    },
+    "dataYear": 2022
+  },
+  {
+    "country": "POL",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 272.24,
+      "unpaid_work": 189.47,
+      "personal_care": 665.15,
+      "leisure": 281.22,
+      "other": 31.91
+    },
+    "dataYear": 2023
+  },
+  {
+    "country": "PRT",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 372.33,
+      "unpaid_work": 96.27,
+      "personal_care": 677.23,
+      "leisure": 289.14,
+      "other": 5.03
+    },
+    "dataYear": 1999
+  },
+  {
+    "country": "SVN",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 299.83,
+      "unpaid_work": 166.46,
+      "personal_care": 631.75,
+      "leisure": 336.94,
+      "other": 5.01
+    },
+    "dataYear": 2000
+  },
+  {
+    "country": "ESP",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 236.23,
+      "unpaid_work": 145.91,
+      "personal_care": 696.88,
+      "leisure": 347.17,
+      "other": 13.66
+    },
+    "dataYear": 2009
+  },
+  {
+    "country": "SWE",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 313.0,
+      "unpaid_work": 171.0,
+      "personal_care": 611.0,
+      "leisure": 338.0,
+      "other": 7.0
+    },
+    "dataYear": 2010
+  },
+  {
+    "country": "TUR",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 358.25,
+      "unpaid_work": 67.59,
+      "personal_care": 679.1,
+      "leisure": 300.95,
+      "other": 34.12
+    },
+    "dataYear": 2014
+  },
+  {
+    "country": "GBR",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 308.62,
+      "unpaid_work": 140.08,
+      "personal_care": 634.92,
+      "leisure": 326.52,
+      "other": 29.87
+    },
+    "dataYear": 2014
+  },
+  {
+    "country": "USA",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 305.46,
+      "unpaid_work": 159.1,
+      "personal_care": 652.3,
+      "leisure": 304.91,
+      "other": 18.22
+    },
+    "dataYear": 2024
+  },
+  {
+    "country": "BGR",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 305.88,
+      "unpaid_work": 125.76,
+      "personal_care": 732.61,
+      "leisure": 271.27,
+      "other": 4.48
+    },
+    "dataYear": 2020
+  },
+  {
+    "country": "HRV",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 344.44,
+      "unpaid_work": 148.97,
+      "personal_care": 661.18,
+      "leisure": 275.61,
+      "other": 9.8
+    },
+    "dataYear": 2022
+  },
+  {
+    "country": "CHN",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 390.0,
+      "unpaid_work": 91.0,
+      "personal_care": 696.0,
+      "leisure": 248.0,
+      "other": 15.0
+    },
+    "dataYear": 2008
+  },
+  {
+    "country": "IND",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 390.57,
+      "unpaid_work": 51.77,
+      "personal_care": 702.77,
+      "leisure": 282.64,
+      "other": 12.25
+    },
+    "dataYear": 1998
+  },
+  {
+    "country": "ZAF",
+    "gender": "male",
+    "categoryMinutes": {
+      "paid_work_or_study": 294.16,
+      "unpaid_work": 102.94,
+      "personal_care": 695.37,
+      "leisure": 334.19,
+      "other": 13.18
+    },
+    "dataYear": 2010
+  },
+  {
+    "country": "AUS",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 172.0,
+      "unpaid_work": 311.0,
+      "personal_care": 666.0,
+      "leisure": 269.0,
+      "other": 22.0
+    },
+    "dataYear": 2006
+  },
+  {
+    "country": "AUT",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 219.08,
+      "unpaid_work": 237.8,
+      "personal_care": 678.04,
+      "leisure": 291.65,
+      "other": 13.43
+    },
+    "dataYear": 2021
+  },
+  {
+    "country": "BEL",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 199.23,
+      "unpaid_work": 237.32,
+      "personal_care": 677.4,
+      "leisure": 316.71,
+      "other": 9.03
+    },
+    "dataYear": 2013
+  },
+  {
+    "country": "CAN",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 302.84,
+      "unpaid_work": 247.18,
+      "personal_care": 663.74,
+      "leisure": 196.91,
+      "other": 29.33
+    },
+    "dataYear": 2022
+  },
+  {
+    "country": "DNK",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 194.59,
+      "unpaid_work": 242.81,
+      "personal_care": 673.38,
+      "leisure": 319.61,
+      "other": 9.61
+    },
+    "dataYear": 2001
+  },
+  {
+    "country": "EST",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 277.98,
+      "unpaid_work": 209.37,
+      "personal_care": 656.28,
+      "leisure": 277.31,
+      "other": 19.06
+    },
+    "dataYear": 2019
+  },
+  {
+    "country": "FIN",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 222.13,
+      "unpaid_work": 208.75,
+      "personal_care": 663.38,
+      "leisure": 308.54,
+      "other": 37.2
+    },
+    "dataYear": 2020
+  },
+  {
+    "country": "FRA",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 175.36,
+      "unpaid_work": 224.03,
+      "personal_care": 760.89,
+      "leisure": 269.74,
+      "other": 9.97
+    },
+    "dataYear": 2009
+  },
+  {
+    "country": "DEU",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 209.88,
+      "unpaid_work": 232.62,
+      "personal_care": 667.24,
+      "leisure": 324.46,
+      "other": 5.79
+    },
+    "dataYear": 2022
+  },
+  {
+    "country": "GRC",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 183.0,
+      "unpaid_work": 260.0,
+      "personal_care": 680.0,
+      "leisure": 310.0,
+      "other": 7.0
+    },
+    "dataYear": 2013
+  },
+  {
+    "country": "HUN",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 202.51,
+      "unpaid_work": 293.77,
+      "personal_care": 679.27,
+      "leisure": 256.84,
+      "other": 7.61
+    },
+    "dataYear": 2010
+  },
+  {
+    "country": "IRL",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 194.93,
+      "unpaid_work": 292.51,
+      "personal_care": 623.13,
+      "leisure": 286.98,
+      "other": 42.44
+    },
+    "dataYear": 2005
+  },
+  {
+    "country": "ITA",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 133.12,
+      "unpaid_work": 306.34,
+      "personal_care": 705.33,
+      "leisure": 280.92,
+      "other": 14.29
+    },
+    "dataYear": 2013
+  },
+  {
+    "country": "JPN",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 292.0,
+      "unpaid_work": 208.0,
+      "personal_care": 647.0,
+      "leisure": 254.0,
+      "other": 40.0
+    },
+    "dataYear": 2021
+  },
+  {
+    "country": "KOR",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 269.39,
+      "unpaid_work": 215.01,
+      "personal_care": 679.88,
+      "leisure": 243.97,
+      "other": 31.76
+    },
+    "dataYear": 2014
+  },
+  {
+    "country": "LVA",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 288.47,
+      "unpaid_work": 253.25,
+      "personal_care": 643.69,
+      "leisure": 249.25,
+      "other": 5.34
+    },
+    "dataYear": 2003
+  },
+  {
+    "country": "LTU",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 279.26,
+      "unpaid_work": 291.95,
+      "personal_care": 644.8,
+      "leisure": 215.3,
+      "other": 8.69
+    },
+    "dataYear": 2003
+  },
+  {
+    "country": "LUX",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 238.87,
+      "unpaid_work": 239.62,
+      "personal_care": 694.01,
+      "leisure": 253.02,
+      "other": 14.51
+    },
+    "dataYear": 2013
+  },
+  {
+    "country": "MEX",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 259.75,
+      "unpaid_work": 348.52,
+      "personal_care": 610.94,
+      "leisure": 194.32,
+      "other": 26.48
+    },
+    "dataYear": 2024
+  },
+  {
+    "country": "NLD",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 201.43,
+      "unpaid_work": 224.95,
+      "personal_care": 696.66,
+      "leisure": 300.22,
+      "other": 16.74
+    },
+    "dataYear": 2016
+  },
+  {
+    "country": "NZL",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 205.0,
+      "unpaid_work": 264.0,
+      "personal_care": 656.0,
+      "leisure": 295.0,
+      "other": 19.0
+    },
+    "dataYear": 2009
+  },
+  {
+    "country": "NOR",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 247.04,
+      "unpaid_work": 212.06,
+      "personal_care": 632.0,
+      "leisure": 339.79,
+      "other": 9.11
+    },
+    "dataYear": 2022
+  },
+  {
+    "country": "POL",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 171.76,
+      "unpaid_work": 292.59,
+      "personal_care": 693.04,
+      "leisure": 245.66,
+      "other": 36.95
+    },
+    "dataYear": 2023
+  },
+  {
+    "country": "PRT",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 231.28,
+      "unpaid_work": 328.16,
+      "personal_care": 673.74,
+      "leisure": 199.78,
+      "other": 7.04
+    },
+    "dataYear": 1999
+  },
+  {
+    "country": "SVN",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 234.16,
+      "unpaid_work": 286.2,
+      "personal_care": 630.44,
+      "leisure": 283.2,
+      "other": 6.0
+    },
+    "dataYear": 2000
+  },
+  {
+    "country": "ESP",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 166.75,
+      "unpaid_work": 289.13,
+      "personal_care": 686.55,
+      "leisure": 284.0,
+      "other": 13.18
+    },
+    "dataYear": 2009
+  },
+  {
+    "country": "SWE",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 275.19,
+      "unpaid_work": 220.15,
+      "personal_care": 633.44,
+      "leisure": 306.21,
+      "other": 5.0
+    },
+    "dataYear": 2010
+  },
+  {
+    "country": "TUR",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 133.95,
+      "unpaid_work": 305.05,
+      "personal_care": 684.51,
+      "leisure": 270.45,
+      "other": 46.1
+    },
+    "dataYear": 2014
+  },
+  {
+    "country": "GBR",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 216.2,
+      "unpaid_work": 248.63,
+      "personal_care": 655.43,
+      "leisure": 284.68,
+      "other": 35.06
+    },
+    "dataYear": 2014
+  },
+  {
+    "country": "USA",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 251.27,
+      "unpaid_work": 234.7,
+      "personal_care": 675.65,
+      "leisure": 255.1,
+      "other": 23.29
+    },
+    "dataYear": 2024
+  },
+  {
+    "country": "BGR",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 256.2,
+      "unpaid_work": 256.89,
+      "personal_care": 711.4,
+      "leisure": 210.48,
+      "other": 5.02
+    },
+    "dataYear": 2020
+  },
+  {
+    "country": "HRV",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 298.1,
+      "unpaid_work": 257.73,
+      "personal_care": 648.34,
+      "leisure": 225.08,
+      "other": 10.75
+    },
+    "dataYear": 2022
+  },
+  {
+    "country": "CHN",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 291.0,
+      "unpaid_work": 234.0,
+      "personal_care": 692.0,
+      "leisure": 211.0,
+      "other": 12.0
+    },
+    "dataYear": 2008
+  },
+  {
+    "country": "IND",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 184.7,
+      "unpaid_work": 351.94,
+      "personal_care": 669.86,
+      "leisure": 220.95,
+      "other": 12.55
+    },
+    "dataYear": 1998
+  },
+  {
+    "country": "ZAF",
+    "gender": "female",
+    "categoryMinutes": {
+      "paid_work_or_study": 195.03,
+      "unpaid_work": 249.59,
+      "personal_care": 694.83,
+      "leisure": 281.85,
+      "other": 18.7
+    },
+    "dataYear": 2010
+  }
+]

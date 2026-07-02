@@ -1,0 +1,8 @@
+{
+  "id": "world_bank_classification",
+  "name": "World Bank Country and Lending Groups (Income Classification) and World Development Indicators Population Data",
+  "org": "World Bank",
+  "url": "https://api.worldbank.org/v2/country/all?format=json&per_page=400",
+  "year": 2026,
+  "license": "CC BY 4.0"
+}

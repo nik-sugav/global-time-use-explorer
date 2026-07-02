@@ -1,0 +1,1038 @@
+| 
+| 
+|
+| Table 4. Employed persons working and time spent working on days worked by full- and part-time status and sex, jobholding status, educational attainment, and day of week, 2025 annual averages
+ - 2025 A01 Results |
+
+ |
+ |
+ |
+ | 
+ |
+ |
+ | 
+ |
+ |
+ | 
+ 
+ |
+ |
+ 
+ |
+|
+|
+| |
+ 
+
+ 
+ 
+ 
+ 
+ 
+ |
+ 
+ 
+
+
+ |
+ |
+ |
+ |
+ |
+ |
+ | 
+ |
+ |
+ | 
+ |
+ |
+ | 
+ 
+ |
+ |
+ 
+ |
+ |
+ |
+ |
+ |
+ |
+
+ |
+ |
+ |
+ |
+ |
+ |
+ 
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+|
+
+
+|
+
+|
+|
+|
+| |
+ |Skip to Content|
+ 
+ |
+|
+ |
+ |
+ |
+ |An official website of the United States government 
+ 
+ |Here is how you know |
+ |
+ |
+ | United States Department of Labor|
+ |
+ 
+ | 
+ |
+ |
+ |
+
+ |
+ |The .gov means it's official.|
+ | Federal government websites often end in .gov or .mil. Before sharing sensitive information,
+ make sure you're on a federal government site.
+ |
+ |
+
+ |
+ |
+ 
+ |
+ |The site is secure.|
+ | The
+ |https://| ensures that you are connecting to the official website and that any
+ information you provide is encrypted and transmitted securely.
+ |
+ |
+ |
+ | 
+|
+|
+
+
+
+|
+
+
+|
+|
+|
+|
+ |
+|
+ |
+ |
+ |U.S. Bureau of Labor Statistics|
+ |
+ |
+|Release Calendar| | |Subscribe| 
+ |
+ |
+ |Search button|
+ |
+ |Search:|
+ |
+
+ |
+ |
+ |
+ |
+ |
+|
+|
+|
+| |
+|
+|
+
+
+|
+ |
+ |
+ 
+|
+|
+
+ |
+ |Menu|
+ |
+ |
+ 
+
+
+|
+ |
+ |
+ |Search button|
+ |
+ |Search:|
+ |
+
+ |
+ |
+ 
+ |Release Calendar| | |Subscribe|
+ |
+ |Home |
+ |
+|
+|
+ |
+ 
+ |About BLS|
+ |History| 
+ |Our Leadership|
+ |Budget and Performance| 
+ |Questions and Answers| 
+ |A-Z Index| 
+ |Glossary| 
+ |BLS Speakers Available|
+ |Errata| 
+ |Contact BLS| 
+
+ | 
+ | 
+| 
+ |Overview of BLS Statistics|
+ |Guide to Programs &amp; Services|
+ |Demographics|
+ |Industries|
+ |Business Costs|
+ |Occupations|
+ |Geography| 
+ 
+ |
+ |
+ |
+ |Resources For|
+ |Business Leaders|
+ |Consumers|
+ |Developers|
+ |Economists|
+ |Investors|
+ |Jobseekers|
+ |Media|
+ |Public Policymakers|
+ |Researcher| 
+ |Students &amp; Teachers|
+ |Survey Respondents|
+ |
+|
+
+| 
+
+|
+ |
+ |Subjects |
+ |
+|
+|
+ |
+ |Inflation &amp; Prices|
+ |Consumer Price Index|
+ |Producer Price Indexes|
+ |Import/Export Price Indexes|
+ |Contract Escalation|
+ |Price Index Research|
+ |Pay &amp; Benefits|
+ |Employment Cost Index|
+ |Employer Costs for Employee Compensation|
+ |Wage Data by Occupation|
+ |Earnings by Demographics|
+ |Earnings by Industry|
+ |County Wages| |
+ |Benefits|
+ |Modeled Wage Estimates| 
+ |Compensation Research|
+ |Strikes &amp; Lockouts |
+ |Wage Records from Unemployment Insurance|
+ |Occupational Requirements| 
+ |
+ |
+ |
+ |Unemployment|
+ |National Unemployment Rate |
+ |State &amp; Local Unemployment Rates |
+ |Unemployment Research|
+ |Employment|
+ |National Employment |
+ |State &amp; Local Employment |
+ |County Employment | |
+ |Worker Characteristics |
+ |American Indian Report|
+ |Employment Projections |
+ |Job Openings &amp; Labor Turnover Survey |
+ |Business Response Survey|
+ |Employment by Occupation |
+ |Work Experience Over Time |
+ |Business Employment Dynamics |
+ |Foreign Direct Investment |
+ |Employment Research|
+ |Workplace Injuries|
+ |
+ |
+ |
+ |Productivity|
+ |Labor and Total Factor Productivity|
+ |Productivity Research|
+ |Spending &amp; Time Use|
+ |Consumer Expenditures |
+ |How Americans Spend Time| 
+ |International|
+ |International Technical Cooperation|
+ |Import/Export Price Indexes|
+ |Geographic Information|
+ |Northeast (Boston-New York)|
+ |Mid-Atlantic (Philadelphia)|
+ |Southeast (Atlanta)|
+ |Midwest (Chicago)|
+ |Southwest (Dallas)|
+ |Mountain-Plains (Kansas City)|
+ |West (San Francisco)|
+ |
+|
+| 
+ | 
+ |
+ |Data Tools |
+ |
+|
+ |
+ |Data Retrieval Tools|
+ |BLS Popular Series|
+ |Series Report|
+ |Top Picks, One Screen, Multi-Screen, and Maps|
+ |Data Finder|
+ |Public Data API|
+
+ |
+ |
+ |
+ |Charts and Applications|
+ |Charts for Economic News Releases| 
+ |CPI Inflation Calculator| 
+ |Injury and Illness Calculator| 
+ |Pay Measure Comparison|
+ |Demographic Data Sources|
+ |COVID-19 Economic Trends|
+ |Industry Productivity Viewer|
+ |Employment and Wages Data Viewer|
+ |Industry Finder from the Quarterly Census of Employment and Wages|
+ 
+ |
+ |
+ |
+ |Customized Tables|
+ |U.S. Economy at a Glance|
+ |Regions, States &amp; Areas at a Glance|
+ |Industry at a Glance| 
+ |Text Files|
+ |News Release Tables|
+ 
+ |More Sources of Data|
+ |Restricted Data Access|
+ |Discontinued Databases |
+ |Questions &amp; Answers|
+ |Special Notices | 
+ |
+|
+|
+ |
+ |Publications |
+ |
+| 
+ | 
+ |Latest Publications|
+ |The Economics Daily|
+ |Monthly Labor Review|
+ |Beyond the Numbers|
+ |Spotlight on Statistics|
+ |Reports|
+ |Videos|
+ |Career Outlook| 
+ |
+ |
+ |
+ |Occupational Outlook Handbook|
+ |Geographic Profile|
+ |Handbook of Methods|
+ |Research Papers|
+ |Copyright Information|
+ |Contact &amp; Help |
+ |Weekly Update| 
+ |
+|
+| |
+ |
+ |Economic Releases |
+ |
+|
+
+|
+ |
+ |Latest Releases|
+ |Major Economic Indicators|
+ |Schedules for news Releases|
+ |By Month|
+ |By News Release|
+ |Current Year|
+ |Prior Years|
+ |Archived News Releases|
+ |
+ |
+ |
+ |Employment &amp; Unemployment|
+ |Monthly|
+ |Quarterly, annual, and other|
+ | Inflation &amp; Prices|
+ |Pay &amp; Benefits &amp; Workplace Injuries|
+ |Productivity &amp; Technology|
+ |Employment Projections|
+ |Regional News Releases|
+ |
+|
+ |
+ |Classroom |
+ |
+|
+ |
+ |K-12 Student &amp; Teacher Resources| 
+ |Games &amp; Quizzes|
+ |Student&apos;s Desk|
+ |Teacher&apos;s Desk|
+ |Questions &amp; Answers|
+ |
+|
+|
+ |
+ |Beta |
+ |
+
+|
+ |
+ |Redesigned News Releases|
+ |
+|
+|
+ |
+
+|
+
+
+ |
+|
+|
+
+
+ |
+ |
+ |
+|
+
+
+|
+
+|
+
+ |
+ 
+|
+|
+ |
+ |
+ 
+|
+|
+|
+|Economic News Release|
+
+|
+|
+|
+ | 
+|
+ |
+ |
+ SHARE ON:
+ |
+ |
+ |
+ |-->
+ |
+ |
+ |
+ |PRINT:|
+ |
+|
+
+|
+ 
+|
+ |ATUS |
+ |
+ |
+ |
+ |
+ |
+ |American Time Use Survey|
+ | |&times;| |
+ |
+ |
+ |
+ |ATUS Homepage|
+ |ATUS Overview|
+ |ATUS FAQs|
+ |Contact ATUS|
+ |
+ |
+ |
+ |Close|
+ |
+ |
+ |
+ |
+|
+ 
+|
+ 
+ | |
+ |
+
+|
+
+| 
+ |
+ |
+ |
+ 
+
+|
+
+|
+|
+|Table 4. Employed persons working and time spent working on days worked by full- and part-time status and sex, jobholding status, educational attainment, and day of week, 2025 annual averages
+|
+|
+|
+
+|
+
+|Table 4. Employed people working and time spent working on days worked by full- and part-time status and sex, jobholding status, educational attainment, and day of week, 2025 annual averages|
+|[Numbers in thousands]|
+
+
+|
+|
+ |Characteristic|
+ |Total Employed|
+ |Employed people who worked on an average day|
+ |Employed people who worked on an average weekday|
+ |Employed people who worked on an average Saturday, Sunday, and holiday|
+|
+|
+ |Number|
+ |Percent of employed|
+ |Average hours of work|
+ |Number|(|1|)|
+ |Percent of employed|
+ |Average hours of work|
+ |Number|(|2|)|
+ |Percent of employed|
+ |Average hours of work|
+|
+|
+
+
+|
+|
+ |Full- and part-time status and sex|
+ |
+|
+
+|
+ |Total, 15 years and over|(|3|)|
+ |167,443|
+ |109,667|
+ |65.5|
+ |7.66|
+ |134,714|
+ |80.5|
+ |8.02|
+ |50,665|
+ |30.3|
+ |5.41|
+|
+
+|
+ |Full-time workers|
+ |133,133|
+ |93,179|
+ |70.0|
+ |8.07|
+ |116,185|
+ |87.3|
+ |8.45|
+ |39,382|
+ |29.6|
+ |5.49|
+|
+
+|
+ |Part-time workers|
+ |34,310|
+ |16,488|
+ |48.1|
+ |5.36|
+ |18,625|
+ |54.3|
+ |5.42|
+ |11,306|
+ |33.0|
+ |5.11|
+|
+
+|
+ |Men|(|3|)|
+ |89,034|
+ |58,940|
+ |66.2|
+ |7.88|
+ |72,494|
+ |81.4|
+ |8.29|
+ |27,026|
+ |30.4|
+ |5.27|
+|
+
+|
+ |Full-time workers|
+ |75,262|
+ |52,285|
+ |69.5|
+ |8.24|
+ |65,307|
+ |86.8|
+ |8.64|
+ |21,259|
+ |28.2|
+ |5.33|
+|
+
+|
+ |Part-time workers|
+ |13,773|
+ |6,655|
+ |48.3|
+ |5.07|
+ |(|4|)|-|
+ |(|4|)|-|
+ |5.07|
+ |(|4|)|-|
+ |(|4|)|-|
+ |5.09|
+|
+
+|
+ |Women|(|3|)|
+ |78,409|
+ |50,728|
+ |64.7|
+ |7.41|
+ |62,220|
+ |79.4|
+ |7.71|
+ |23,639|
+ |30.1|
+ |5.56|
+|
+
+|
+ |Full-time workers|
+ |57,872|
+ |40,895|
+ |70.7|
+ |7.86|
+ |50,883|
+ |87.9|
+ |8.20|
+ |18,094|
+ |31.3|
+ |5.67|
+|
+
+|
+ |Part-time workers|
+ |20,537|
+ |9,833|
+ |47.9|
+ |5.56|
+ |11,514|
+ |56.1|
+ |5.63|
+ |5,486|
+ |26.7|
+ |5.14|
+|
+
+|
+ |
+|
+|
+ |Jobholding status|
+ |
+|
+
+|
+ |Single jobholders|
+ |151,929|
+ |97,654|
+ |64.3|
+ |7.63|
+ |121,396|
+ |79.9|
+ |7.94|
+ |41,956|
+ |27.6|
+ |5.53|
+|
+
+|
+ |Multiple jobholders|
+ |15,515|
+ |12,013|
+ |77.4|
+ |7.97|
+ |13,307|
+ |85.8|
+ |8.83|
+ |(|4|)|-|
+ |(|4|)|-|
+ |4.78|
+|
+
+|
+ |
+|
+|
+ |Educational attainment, 25 years and over|
+ |
+|
+
+|
+ |Less than a high school diploma|
+ |8,953|
+ |6,155|
+ |68.8|
+ |7.88|
+ |(|4|)|-|
+ |(|4|)|-|
+ |8.01|
+ |(|4|)|-|
+ |(|4|)|-|
+ |7.07|
+|
+
+|
+ |High school graduates, no college|
+ |34,852|
+ |22,043|
+ |63.2|
+ |7.97|
+ |27,987|
+ |80.3|
+ |8.23|
+ |9,752|
+ |28.0|
+ |6.40|
+|
+
+|
+ |Some college or associate degree|
+ |29,684|
+ |19,099|
+ |64.3|
+ |7.91|
+ |24,105|
+ |81.2|
+ |8.09|
+ |7,889|
+ |26.6|
+ |6.66|
+|
+
+|
+ |Bachelor's degree and higher|
+ |70,482|
+ |50,642|
+ |71.9|
+ |7.39|
+ |62,084|
+ |88.1|
+ |7.92|
+ |23,241|
+ |33.0|
+ |4.00|
+|
+
+|
+ |Bachelor's degree only|
+ |39,422|
+ |28,434|
+ |72.1|
+ |7.38|
+ |35,125|
+ |89.1|
+ |7.89|
+ |12,927|
+ |32.8|
+ |4.22|
+|
+
+|
+ |Advanced degree|
+ |31,059|
+ |22,209|
+ |71.5|
+ |7.40|
+ |26,968|
+ |86.8|
+ |7.96|
+ |10,318|
+ |33.2|
+ |3.69|
+|
+
+|
+
+|
+|
+|
+ |
+ |Footnotes|
+ |(1) |Number was derived by multiplying the "Total employed" by the percent of employed people who worked on an average weekday.|
+ |(2) |Number was derived by multiplying the "Total employed" by the percent of employed people who worked on an average Saturday, Sunday, and holiday.|
+ |(3) |Includes workers whose hours vary.|
+ |(4) |Estimate is suppressed because it does not meet the American Time Use Survey publication standards.|
+ |
+|
+|
+
+|
+|
+ |
+ NOTE: Includes work at main and other job(s), and excludes travel related to work. Unless otherwise specified, data refer to people 15 years and over.|
+ |
+|
+|
+
+|
+|
+|
+| Table of Contents |
+|Last Modified Date:| June 25, 2026
+| |
+|
+|
+|
+|
+ |
+|
+ |
+ |
+ |
+
+
+|
+
+
+|
+ 
+ 
+ |
+
+
+ 
+
+
+|
+
+|
+|
+| 
+|
+|
+ |Home|
+ |Subjects|
+ |Data Tools|
+ |Publications|
+ |Economic Releases|
+ |Classroom|
+ |Beta|
+|
+|
+
+|
+ 
+
+
+|
+
+|
+|
+|
+ |
+ 
+ 
+| 
+|
+|
+
+ |
+ | 
+|
+
+| 
+|U.S. Bureau of Labor Statistics|
+|American Time Use Survey| 
+|Office of Employment and Unemployment Statistics| 
+|Suitland Federal Center|
+|Floor 3|
+|4600 Silver Hill Road| 
+|Washington, DC 20212-0002|
+|
+
+|
+
+
+|
+
+
+| 
+
+|
+|Telephone:| 202-691-6339 |
+
+|
+
+
+|www.bls.gov/TUS|
+|Contact TUS|
+
+|
+ 
+
+
+
+|
+|
+|
+|
+
+ |
+ |
+ |resources|
+ |
+ |
+ | 
+ |Inspector General (OIG)|
+ |Budget and Performance|
+ |Department of Labor Grants|
+ |No Fear Act|
+ |USA.gov|
+ |
+ |
+ | 
+ |
+ |about the site|
+ |
+ |
+ | 
+ |Sitemap| 
+ |Freedom of Information Act|
+ |Privacy and Security Statement|
+ |Disclaimers|
+ |Linking and Copyright Info| 
+ |Important Website Notices|
+ |Help and Tutorials|
+ |Accessibility Statement|
+ |
+ |
+ | 
+ |
+ 
+|
+|
+|
+|
+
+|
+
+|
+|Connect With BLS|
+ | 
+
+ |
+ |
+ |
+ |Bluesky|
+ |
+
+ |
+ |
+ |
+ |Instagram|
+ |
+
+ |
+ |
+ |
+ |LinkedIn|
+ |
+
+ |
+ |
+ |
+ |Threads|
+ | 
+ 
+ |
+ |
+ |
+ |Visit BLS on X|
+ |
+ 
+ |
+ |
+ |
+ |Youtube|
+ |
+ |
+ |
+ |
+ |Email|
+ |
+ |
+|
+|
+|
+|
+|
+
+|
+|
+|

@@ -1,0 +1,1738 @@
+[
+  {
+    "iso3": "ABW",
+    "name": "Aruba",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 107995,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "AFG",
+    "name": "Afghanistan",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "low",
+    "population": 42647492,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "AGO",
+    "name": "Angola",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 37885849,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ALB",
+    "name": "Albania",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 2377128,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "AND",
+    "name": "Andorra",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 81938,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ARE",
+    "name": "United Arab Emirates",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "high",
+    "population": 10986400,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ARG",
+    "name": "Argentina",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 45696159,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ARM",
+    "name": "Armenia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 3033500,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ASM",
+    "name": "American Samoa",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 46765,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ATG",
+    "name": "Antigua and Barbuda",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 93772,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "AUS",
+    "name": "Australia",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 27194286,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "AUT",
+    "name": "Austria",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 9177982,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "AZE",
+    "name": "Azerbaijan",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 10202830,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BDI",
+    "name": "Burundi",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 14047786,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BEL",
+    "name": "Belgium",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 11858610,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BEN",
+    "name": "Benin",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 14462724,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BFA",
+    "name": "Burkina Faso",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 23548781,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BGD",
+    "name": "Bangladesh",
+    "region": "South Asia",
+    "incomeGroup": "lower_middle",
+    "population": 173562364,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BGR",
+    "name": "Bulgaria",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 6441421,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BHR",
+    "name": "Bahrain",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "high",
+    "population": 1588670,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BHS",
+    "name": "Bahamas, The",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 401283,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 3164253,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BLR",
+    "name": "Belarus",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 9132629,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BLZ",
+    "name": "Belize",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 417072,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BMU",
+    "name": "Bermuda",
+    "region": "North America",
+    "incomeGroup": "high",
+    "population": 64636,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BOL",
+    "name": "Bolivia",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "lower_middle",
+    "population": 12413315,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BRA",
+    "name": "Brazil",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 211998573,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BRB",
+    "name": "Barbados",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 282467,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BRN",
+    "name": "Brunei Darussalam",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 462721,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BTN",
+    "name": "Bhutan",
+    "region": "South Asia",
+    "incomeGroup": "lower_middle",
+    "population": 791524,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "BWA",
+    "name": "Botswana",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "upper_middle",
+    "population": 2521139,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CAF",
+    "name": "Central African Republic",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 5330690,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CAN",
+    "name": "Canada",
+    "region": "North America",
+    "incomeGroup": "high",
+    "population": 41262329,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CHE",
+    "name": "Switzerland",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 9005582,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CHI",
+    "name": "Channel Islands",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 168126,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CHL",
+    "name": "Chile",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 19764771,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CHN",
+    "name": "China",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "upper_middle",
+    "population": 1408975000,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CIV",
+    "name": "Cote d'Ivoire",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 31934230,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CMR",
+    "name": "Cameroon",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 29123744,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "COD",
+    "name": "Congo, Dem. Rep.",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 109276265,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "COG",
+    "name": "Congo, Rep.",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 6332961,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "COL",
+    "name": "Colombia",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 52886363,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "COM",
+    "name": "Comoros",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 866628,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CPV",
+    "name": "Cabo Verde",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "upper_middle",
+    "population": 524877,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CRI",
+    "name": "Costa Rica",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 5129910,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CUB",
+    "name": "Cuba",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 10979783,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CUW",
+    "name": "Curacao",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 155967,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CYM",
+    "name": "Cayman Islands",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 74457,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CYP",
+    "name": "Cyprus",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 1358282,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "CZE",
+    "name": "Czechia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 10905028,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "DEU",
+    "name": "Germany",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 83516593,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "DJI",
+    "name": "Djibouti",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "lower_middle",
+    "population": 1168722,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "DMA",
+    "name": "Dominica",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 66205,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "DNK",
+    "name": "Denmark",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 5976992,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "DOM",
+    "name": "Dominican Republic",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 11427557,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "DZA",
+    "name": "Algeria",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "upper_middle",
+    "population": 46814308,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ECU",
+    "name": "Ecuador",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 18135478,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "EGY",
+    "name": "Egypt, Arab Rep.",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "lower_middle",
+    "population": 116538258,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ERI",
+    "name": "Eritrea",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 3535603,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ESP",
+    "name": "Spain",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 48848840,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "EST",
+    "name": "Estonia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 1372341,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ETH",
+    "name": "Ethiopia",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 132059767,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "FIN",
+    "name": "Finland",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 5619911,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "FJI",
+    "name": "Fiji",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "upper_middle",
+    "population": 928784,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "FRA",
+    "name": "France",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 68551653,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "FRO",
+    "name": "Faroe Islands",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 54640,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "FSM",
+    "name": "Micronesia, Fed. Sts.",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "upper_middle",
+    "population": 113160,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GAB",
+    "name": "Gabon",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "upper_middle",
+    "population": 2538952,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GBR",
+    "name": "United Kingdom",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 69281000,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GEO",
+    "name": "Georgia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 3812518,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GHA",
+    "name": "Ghana",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 34427414,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GIB",
+    "name": "Gibraltar",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 39329,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GIN",
+    "name": "Guinea",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 14754785,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GMB",
+    "name": "Gambia, The",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 2759988,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GNB",
+    "name": "Guinea-Bissau",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 2201352,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GNQ",
+    "name": "Equatorial Guinea",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "upper_middle",
+    "population": 1892516,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GRC",
+    "name": "Greece",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 10405134,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GRD",
+    "name": "Grenada",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 117207,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GRL",
+    "name": "Greenland",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 56836,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GTM",
+    "name": "Guatemala",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 18406359,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GUM",
+    "name": "Guam",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 167777,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "GUY",
+    "name": "Guyana",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 831087,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "HKG",
+    "name": "Hong Kong SAR, China",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 7524100,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "HND",
+    "name": "Honduras",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "lower_middle",
+    "population": 10825703,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "HRV",
+    "name": "Croatia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 3866200,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "HTI",
+    "name": "Haiti",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "lower_middle",
+    "population": 11772557,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "HUN",
+    "name": "Hungary",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 9562065,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "IDN",
+    "name": "Indonesia",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "upper_middle",
+    "population": 283487931,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "IMN",
+    "name": "Isle of Man",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 84160,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "IND",
+    "name": "India",
+    "region": "South Asia",
+    "incomeGroup": "lower_middle",
+    "population": 1450935791,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "IRL",
+    "name": "Ireland",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 5395790,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "IRN",
+    "name": "Iran, Islamic Rep.",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "upper_middle",
+    "population": 91567738,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "IRQ",
+    "name": "Iraq",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "upper_middle",
+    "population": 46042015,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ISL",
+    "name": "Iceland",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 386506,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ISR",
+    "name": "Israel",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "high",
+    "population": 10002200,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ITA",
+    "name": "Italy",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 58952704,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "JAM",
+    "name": "Jamaica",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 2839175,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "JOR",
+    "name": "Jordan",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "upper_middle",
+    "population": 11552876,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "JPN",
+    "name": "Japan",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 123975371,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "KAZ",
+    "name": "Kazakhstan",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 20592571,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "KEN",
+    "name": "Kenya",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 56432944,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "KGZ",
+    "name": "Kyrgyz Republic",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "lower_middle",
+    "population": 7221868,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "KHM",
+    "name": "Cambodia",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "lower_middle",
+    "population": 17638801,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "KIR",
+    "name": "Kiribati",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "lower_middle",
+    "population": 134518,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "KNA",
+    "name": "St. Kitts and Nevis",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 46843,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "KOR",
+    "name": "Korea, Rep.",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 51751065,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "KWT",
+    "name": "Kuwait",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "high",
+    "population": 4897263,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "LAO",
+    "name": "Lao PDR",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "lower_middle",
+    "population": 7769819,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "LBN",
+    "name": "Lebanon",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "lower_middle",
+    "population": 5805962,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "LBR",
+    "name": "Liberia",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 5612817,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "LBY",
+    "name": "Libya",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "upper_middle",
+    "population": 7381023,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "LCA",
+    "name": "St. Lucia",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 179744,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "LIE",
+    "name": "Liechtenstein",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 40450,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "LKA",
+    "name": "Sri Lanka",
+    "region": "South Asia",
+    "incomeGroup": "upper_middle",
+    "population": 21916000,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "LSO",
+    "name": "Lesotho",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 2337423,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "LTU",
+    "name": "Lithuania",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 2888278,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "LUX",
+    "name": "Luxembourg",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 677012,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "LVA",
+    "name": "Latvia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 1866124,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MAC",
+    "name": "Macao SAR, China",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 687000,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MAF",
+    "name": "St. Martin (French part)",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 26129,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MAR",
+    "name": "Morocco",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "lower_middle",
+    "population": 38081173,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MCO",
+    "name": "Monaco",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 38631,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MDA",
+    "name": "Moldova",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 2402306,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MDG",
+    "name": "Madagascar",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 31964956,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MDV",
+    "name": "Maldives",
+    "region": "South Asia",
+    "incomeGroup": "upper_middle",
+    "population": 527799,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MEX",
+    "name": "Mexico",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 130861007,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MHL",
+    "name": "Marshall Islands",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "upper_middle",
+    "population": 37548,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MKD",
+    "name": "North Macedonia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 1824359,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MLI",
+    "name": "Mali",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 24478595,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MLT",
+    "name": "Malta",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "high",
+    "population": 568847,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MMR",
+    "name": "Myanmar",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "lower_middle",
+    "population": 54500091,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MNE",
+    "name": "Montenegro",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 623525,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MNG",
+    "name": "Mongolia",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "upper_middle",
+    "population": 3524788,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MNP",
+    "name": "Northern Mariana Islands",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 44278,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MOZ",
+    "name": "Mozambique",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 34631766,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MRT",
+    "name": "Mauritania",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 5169395,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MUS",
+    "name": "Mauritius",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "upper_middle",
+    "population": 1245779,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MWI",
+    "name": "Malawi",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 21655286,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "MYS",
+    "name": "Malaysia",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "upper_middle",
+    "population": 35557673,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "NAM",
+    "name": "Namibia",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 3030131,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "NCL",
+    "name": "New Caledonia",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 292639,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "NER",
+    "name": "Niger",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 27032412,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "NGA",
+    "name": "Nigeria",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 232679478,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "NIC",
+    "name": "Nicaragua",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "lower_middle",
+    "population": 6916140,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "NLD",
+    "name": "Netherlands",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 17993485,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "NOR",
+    "name": "Norway",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 5572279,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "NPL",
+    "name": "Nepal",
+    "region": "South Asia",
+    "incomeGroup": "lower_middle",
+    "population": 29651054,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "NRU",
+    "name": "Nauru",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 11947,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "NZL",
+    "name": "New Zealand",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 5290000,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "OMN",
+    "name": "Oman",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "high",
+    "population": 5281538,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "PAK",
+    "name": "Pakistan",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "lower_middle",
+    "population": 251269164,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "PAN",
+    "name": "Panama",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 4515577,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "PER",
+    "name": "Peru",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 34217848,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "PHL",
+    "name": "Philippines",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "upper_middle",
+    "population": 115843670,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "PLW",
+    "name": "Palau",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 17695,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "PNG",
+    "name": "Papua New Guinea",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "lower_middle",
+    "population": 10576502,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "POL",
+    "name": "Poland",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 36559233,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "PRI",
+    "name": "Puerto Rico (US)",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 3202521,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "PRK",
+    "name": "Korea, Dem. People's Rep.",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "low",
+    "population": 26498823,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "PRT",
+    "name": "Portugal",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 10694681,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "PRY",
+    "name": "Paraguay",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 6929153,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "PSE",
+    "name": "West Bank and Gaza",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "lower_middle",
+    "population": 5289152,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "PYF",
+    "name": "French Polynesia",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 281807,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "QAT",
+    "name": "Qatar",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "high",
+    "population": 2857822,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ROU",
+    "name": "Romania",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 19051804,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "RUS",
+    "name": "Russian Federation",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 143669648,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "RWA",
+    "name": "Rwanda",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 14256567,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SAU",
+    "name": "Saudi Arabia",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "high",
+    "population": 35300280,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SDN",
+    "name": "Sudan",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 50448963,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SEN",
+    "name": "Senegal",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 18501984,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SGP",
+    "name": "Singapore",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "high",
+    "population": 6036860,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SLB",
+    "name": "Solomon Islands",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "lower_middle",
+    "population": 819198,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SLE",
+    "name": "Sierra Leone",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 8642022,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SLV",
+    "name": "El Salvador",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 6338193,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SMR",
+    "name": "San Marino",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 33977,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SOM",
+    "name": "Somalia, Fed. Rep.",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 19009151,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SRB",
+    "name": "Serbia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 6586476,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SSD",
+    "name": "South Sudan",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 11943408,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "STP",
+    "name": "Sao Tome and Principe",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 235536,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SUR",
+    "name": "Suriname",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 634431,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SVK",
+    "name": "Slovak Republic",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 5422069,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SVN",
+    "name": "Slovenia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 2127400,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SWE",
+    "name": "Sweden",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "high",
+    "population": 10569709,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SWZ",
+    "name": "Eswatini",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 1242822,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SXM",
+    "name": "Sint Maarten (Dutch part)",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 43350,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SYC",
+    "name": "Seychelles",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "high",
+    "population": 121354,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "SYR",
+    "name": "Syrian Arab Republic",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "low",
+    "population": 24672760,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "TCA",
+    "name": "Turks and Caicos Islands",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 46535,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "TCD",
+    "name": "Chad",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 20299123,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "TGO",
+    "name": "Togo",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 8406558,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "THA",
+    "name": "Thailand",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "upper_middle",
+    "population": 71668011,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "TJK",
+    "name": "Tajikistan",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "lower_middle",
+    "population": 10590927,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "TKM",
+    "name": "Turkmenistan",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 7494498,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "TLS",
+    "name": "Timor-Leste",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "lower_middle",
+    "population": 1400638,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "TON",
+    "name": "Tonga",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "upper_middle",
+    "population": 104175,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "TTO",
+    "name": "Trinidad and Tobago",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 1368333,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "TUN",
+    "name": "Tunisia",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "lower_middle",
+    "population": 12277109,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "TUR",
+    "name": "Turkiye",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 85518661,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "TUV",
+    "name": "Tuvalu",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "upper_middle",
+    "population": 9646,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "TZA",
+    "name": "Tanzania",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 68560157,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "UGA",
+    "name": "Uganda",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "low",
+    "population": 50015092,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "UKR",
+    "name": "Ukraine",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 37860221,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "URY",
+    "name": "Uruguay",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 3386588,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "USA",
+    "name": "United States",
+    "region": "North America",
+    "incomeGroup": "high",
+    "population": 340003797,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "UZB",
+    "name": "Uzbekistan",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "lower_middle",
+    "population": 36361859,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "VCT",
+    "name": "St. Vincent and the Grenadines",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "upper_middle",
+    "population": 100616,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "VEN",
+    "name": "Venezuela, RB",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "lower_middle",
+    "population": 28405543,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "VGB",
+    "name": "British Virgin Islands",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 39471,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "VIR",
+    "name": "Virgin Islands (U.S.)",
+    "region": "Latin America & Caribbean",
+    "incomeGroup": "high",
+    "population": 104377,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "VNM",
+    "name": "Viet Nam",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "upper_middle",
+    "population": 100987686,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "VUT",
+    "name": "Vanuatu",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "lower_middle",
+    "population": 327777,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "WSM",
+    "name": "Samoa",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "upper_middle",
+    "population": 218019,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "XKX",
+    "name": "Kosovo",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "upper_middle",
+    "population": 1594353,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "YEM",
+    "name": "Yemen, Rep.",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "low",
+    "population": 40583164,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ZAF",
+    "name": "South Africa",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "upper_middle",
+    "population": 64007187,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ZMB",
+    "name": "Zambia",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 21314956,
+    "populationYear": 2024
+  },
+  {
+    "iso3": "ZWE",
+    "name": "Zimbabwe",
+    "region": "Sub-Saharan Africa",
+    "incomeGroup": "lower_middle",
+    "population": 16634373,
+    "populationYear": 2024
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "USA": {
+    "country": "USA",
+    "points": [
+      {
+        "year": 2006,
+        "categoryMinutes": {
+          "sleep": 517.8,
+          "personal_care": 52.2,
+          "eating": 73.8,
+          "paid_work": 225.0,
+          "education": 29.4,
+          "household": 107.4,
+          "caregiving": 44.4,
+          "shopping": 24.0,
+          "commute": 0.0,
+          "screen_leisure": 154.8,
+          "socializing": 145.2,
+          "exercise": 16.8,
+          "civic_religious": 15.0,
+          "other": 31.8
+        },
+        "sourceId": "us_atus"
+      },
+      {
+        "year": 2010,
+        "categoryMinutes": {
+          "sleep": 520.2,
+          "personal_care": 47.4,
+          "eating": 67.8,
+          "paid_work": 193.2,
+          "education": 26.4,
+          "household": 106.2,
+          "caregiving": 34.8,
+          "shopping": 22.2,
+          "commute": 69.6,
+          "screen_leisure": 163.8,
+          "socializing": 124.2,
+          "exercise": 19.8,
+          "civic_religious": 19.2,
+          "other": 21.0
+        },
+        "sourceId": "us_atus"
+      },
+      {
+        "year": 2015,
+        "categoryMinutes": {
+          "sleep": 529.8,
+          "personal_care": 48.0,
+          "eating": 64.2,
+          "paid_work": 195.6,
+          "education": 25.8,
+          "household": 108.6,
+          "caregiving": 33.6,
+          "shopping": 21.6,
+          "commute": 69.0,
+          "screen_leisure": 166.8,
+          "socializing": 123.0,
+          "exercise": 19.2,
+          "civic_religious": 18.0,
+          "other": 11.4
+        },
+        "sourceId": "us_atus"
+      },
+      {
+        "year": 2019,
+        "categoryMinutes": {
+          "sleep": 530.4,
+          "personal_care": 46.2,
+          "eating": 63.6,
+          "paid_work": 199.8,
+          "education": 25.8,
+          "household": 103.8,
+          "caregiving": 33.0,
+          "shopping": 21.0,
+          "commute": 70.2,
+          "screen_leisure": 168.6,
+          "socializing": 119.4,
+          "exercise": 20.4,
+          "civic_religious": 16.2,
+          "other": 16.8
+        },
+        "sourceId": "us_atus"
+      },
+      {
+        "year": 2025,
+        "categoryMinutes": {
+          "sleep": 541.8,
+          "personal_care": 45.0,
+          "eating": 66.6,
+          "paid_work": 186.0,
+          "education": 25.2,
+          "household": 118.2,
+          "caregiving": 31.2,
+          "shopping": 25.8,
+          "commute": 59.4,
+          "screen_leisure": 156.6,
+          "socializing": 130.2,
+          "exercise": 22.2,
+          "civic_religious": 15.0,
+          "other": 16.2
+        },
+        "sourceId": "us_atus"
+      }
+    ],
+    "smoothedAvailable": true,
+    "caveats": [
+      "2006 (BLS ATUS Table 1, USDL 07-0930): this early ATUS release used a less granular table than modern years. Per the release's own footnote, all major activity categories INCLUDE their related travel time (travel was not broken out into separate 'travel related to X' sub-lines the way later Table A-1 releases do). Commute could not be isolated for 2006 and is reported as 0 minutes; travel time for that year remains folded into paid_work, household, shopping, etc. This makes 2006's commute figure NOT comparable to 2010/2015/2019/2025 (which DO isolate commute). Also, 2006's table did not separately publish Grooming, Health-related self-care, or a 'Relaxing and leisure' subtotal distinct from Watching TV; personal_care is derived as (Personal care activities total - Sleeping), and socializing includes an undifferentiated remainder of the Leisure and sports total (reading, games, relaxing, arts, attending events) that could not be further split that year. Additionally, 2006's Purchasing goods and services (total, 0.81 hrs) does not separately publish Household services, Government services, or a travel sub-line the way later years do; the unassigned residual (0.32 hrs, after removing Consumer goods purchases and Professional/personal care services) is folded into 'other' rather than dropped, to keep the 14-category sum close to 1440 minutes.",
+      "2010 and 2015 (BLS ATUS Table A-1): full modern structure with travel isolated per category, directly comparable to the 2025 methodology used in base_slices.json. 2015 household includes the 'Household services' sub-line (0.02 hrs) which is filed under Purchasing goods and services in that year's table, consistent with the crosswalk used for 2025.",
+      "2019 (BLS ATUS Table A-1): full modern structure, travel isolated per category, same methodology as 2025. Genuine pre-pandemic survey year, not subject to 2020 COVID-19 data collection disruptions.",
+      "2025 grand-mean figures are reused verbatim from data/sources/atus/base_slices.json (ageGroup=all, gender=all) rather than re-fetched.",
+      "All years' commute (2010/2015/2019/2025) sums all 'travel related to X' sub-lines published in that year's Table A-1, matching the crosswalk used for the 2025 base_slices.json fetch. 2006 is the sole exception (commute=0, see above).",
+      "Minor rounding: each year's 14 categories are computed from hours-per-day figures published to 2 decimal places (BLS's own rounding), then multiplied by 60; category sums land within approximately 5 minutes of 1440 due to BLS's own published rounding and a small number of near-zero footnoted cells ('approximately zero') treated as 0."
+    ]
+  }
+}

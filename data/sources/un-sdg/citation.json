@@ -1,0 +1,8 @@
+{
+  "id": "un_sdg_541",
+  "name": "SDG Indicator 5.4.1: Proportion of time spent on unpaid domestic and care work, by sex, age and location",
+  "org": "UN Statistics Division",
+  "url": "https://unstats.un.org/sdgs/dataportal/database (series SL_DOM_TSPD, queried via https://unstats.un.org/SDGAPI/v1/sdg/Series/Data?seriesCode=SL_DOM_TSPD)",
+  "year": 2026,
+  "license": "Data retrieved from the UN Global SDG Indicators Database / SDG API (unstats.un.org), maintained by the UN Statistics Division (part of UN DESA). The SDG data portal and the wider un.org Terms of Use (https://www.un.org/en/about-us/terms-of-use) state that UN materials may be downloaded and copied for personal, non-commercial use provided author attribution, legal notices, and source citations are preserved; they do not grant rights to resell, redistribute for commercial purposes, or misrepresent the data as endorsed by the UN. The UN Statistics Division separately promotes SDG data as part of global open-data / open-statistics efforts, but no separate open license (e.g. CC-BY) is posted specifically for the SDG Global Database at the time of this fetch. This dataset should be attributed to 'United Nations, Global SDG Indicators Database, Indicator 5.4.1' and any redistribution should preserve that attribution and link back to unstats.un.org. Underlying national figures are in turn sourced from individual countries' official time-use surveys, as noted in the 'source' field of each raw API record."
+}

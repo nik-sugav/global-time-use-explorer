@@ -1,0 +1,1268 @@
+| 
+| 
+|
+| Table 8B. Time spent in primary activities for the civilian population 18 years and over by presence and age of youngest household child and sex, 2025 annual averages, employed
+ - 2025 A01 Results |
+
+ |
+ |
+ |
+ | 
+ |
+ |
+ | 
+ |
+ |
+ | 
+ 
+ |
+ |
+ 
+ |
+|
+|
+| |
+ 
+
+ 
+ 
+ 
+ 
+ 
+ |
+ 
+ 
+
+
+ |
+ |
+ |
+ |
+ |
+ |
+ | 
+ |
+ |
+ | 
+ |
+ |
+ | 
+ 
+ |
+ |
+ 
+ |
+ |
+ |
+ |
+ |
+ |
+
+ |
+ |
+ |
+ |
+ |
+ |
+ 
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+|
+
+
+|
+
+|
+|
+|
+| |
+ |Skip to Content|
+ 
+ |
+|
+ |
+ |
+ |
+ |An official website of the United States government 
+ 
+ |Here is how you know |
+ |
+ |
+ | United States Department of Labor|
+ |
+ 
+ | 
+ |
+ |
+ |
+
+ |
+ |The .gov means it's official.|
+ | Federal government websites often end in .gov or .mil. Before sharing sensitive information,
+ make sure you're on a federal government site.
+ |
+ |
+
+ |
+ |
+ 
+ |
+ |The site is secure.|
+ | The
+ |https://| ensures that you are connecting to the official website and that any
+ information you provide is encrypted and transmitted securely.
+ |
+ |
+ |
+ | 
+|
+|
+
+
+
+|
+
+
+|
+|
+|
+|
+ |
+|
+ |
+ |
+ |U.S. Bureau of Labor Statistics|
+ |
+ |
+|Release Calendar| | |Subscribe| 
+ |
+ |
+ |Search button|
+ |
+ |Search:|
+ |
+
+ |
+ |
+ |
+ |
+ |
+|
+|
+|
+| |
+|
+|
+
+
+|
+ |
+ |
+ 
+|
+|
+
+ |
+ |Menu|
+ |
+ |
+ 
+
+
+|
+ |
+ |
+ |Search button|
+ |
+ |Search:|
+ |
+
+ |
+ |
+ 
+ |Release Calendar| | |Subscribe|
+ |
+ |Home |
+ |
+|
+|
+ |
+ 
+ |About BLS|
+ |History| 
+ |Our Leadership|
+ |Budget and Performance| 
+ |Questions and Answers| 
+ |A-Z Index| 
+ |Glossary| 
+ |BLS Speakers Available|
+ |Errata| 
+ |Contact BLS| 
+
+ | 
+ | 
+| 
+ |Overview of BLS Statistics|
+ |Guide to Programs &amp; Services|
+ |Demographics|
+ |Industries|
+ |Business Costs|
+ |Occupations|
+ |Geography| 
+ 
+ |
+ |
+ |
+ |Resources For|
+ |Business Leaders|
+ |Consumers|
+ |Developers|
+ |Economists|
+ |Investors|
+ |Jobseekers|
+ |Media|
+ |Public Policymakers|
+ |Researcher| 
+ |Students &amp; Teachers|
+ |Survey Respondents|
+ |
+|
+
+| 
+
+|
+ |
+ |Subjects |
+ |
+|
+|
+ |
+ |Inflation &amp; Prices|
+ |Consumer Price Index|
+ |Producer Price Indexes|
+ |Import/Export Price Indexes|
+ |Contract Escalation|
+ |Price Index Research|
+ |Pay &amp; Benefits|
+ |Employment Cost Index|
+ |Employer Costs for Employee Compensation|
+ |Wage Data by Occupation|
+ |Earnings by Demographics|
+ |Earnings by Industry|
+ |County Wages| |
+ |Benefits|
+ |Modeled Wage Estimates| 
+ |Compensation Research|
+ |Strikes &amp; Lockouts |
+ |Wage Records from Unemployment Insurance|
+ |Occupational Requirements| 
+ |
+ |
+ |
+ |Unemployment|
+ |National Unemployment Rate |
+ |State &amp; Local Unemployment Rates |
+ |Unemployment Research|
+ |Employment|
+ |National Employment |
+ |State &amp; Local Employment |
+ |County Employment | |
+ |Worker Characteristics |
+ |American Indian Report|
+ |Employment Projections |
+ |Job Openings &amp; Labor Turnover Survey |
+ |Business Response Survey|
+ |Employment by Occupation |
+ |Work Experience Over Time |
+ |Business Employment Dynamics |
+ |Foreign Direct Investment |
+ |Employment Research|
+ |Workplace Injuries|
+ |
+ |
+ |
+ |Productivity|
+ |Labor and Total Factor Productivity|
+ |Productivity Research|
+ |Spending &amp; Time Use|
+ |Consumer Expenditures |
+ |How Americans Spend Time| 
+ |International|
+ |International Technical Cooperation|
+ |Import/Export Price Indexes|
+ |Geographic Information|
+ |Northeast (Boston-New York)|
+ |Mid-Atlantic (Philadelphia)|
+ |Southeast (Atlanta)|
+ |Midwest (Chicago)|
+ |Southwest (Dallas)|
+ |Mountain-Plains (Kansas City)|
+ |West (San Francisco)|
+ |
+|
+| 
+ | 
+ |
+ |Data Tools |
+ |
+|
+ |
+ |Data Retrieval Tools|
+ |BLS Popular Series|
+ |Series Report|
+ |Top Picks, One Screen, Multi-Screen, and Maps|
+ |Data Finder|
+ |Public Data API|
+
+ |
+ |
+ |
+ |Charts and Applications|
+ |Charts for Economic News Releases| 
+ |CPI Inflation Calculator| 
+ |Injury and Illness Calculator| 
+ |Pay Measure Comparison|
+ |Demographic Data Sources|
+ |COVID-19 Economic Trends|
+ |Industry Productivity Viewer|
+ |Employment and Wages Data Viewer|
+ |Industry Finder from the Quarterly Census of Employment and Wages|
+ 
+ |
+ |
+ |
+ |Customized Tables|
+ |U.S. Economy at a Glance|
+ |Regions, States &amp; Areas at a Glance|
+ |Industry at a Glance| 
+ |Text Files|
+ |News Release Tables|
+ 
+ |More Sources of Data|
+ |Restricted Data Access|
+ |Discontinued Databases |
+ |Questions &amp; Answers|
+ |Special Notices | 
+ |
+|
+|
+ |
+ |Publications |
+ |
+| 
+ | 
+ |Latest Publications|
+ |The Economics Daily|
+ |Monthly Labor Review|
+ |Beyond the Numbers|
+ |Spotlight on Statistics|
+ |Reports|
+ |Videos|
+ |Career Outlook| 
+ |
+ |
+ |
+ |Occupational Outlook Handbook|
+ |Geographic Profile|
+ |Handbook of Methods|
+ |Research Papers|
+ |Copyright Information|
+ |Contact &amp; Help |
+ |Weekly Update| 
+ |
+|
+| |
+ |
+ |Economic Releases |
+ |
+|
+
+|
+ |
+ |Latest Releases|
+ |Major Economic Indicators|
+ |Schedules for news Releases|
+ |By Month|
+ |By News Release|
+ |Current Year|
+ |Prior Years|
+ |Archived News Releases|
+ |
+ |
+ |
+ |Employment &amp; Unemployment|
+ |Monthly|
+ |Quarterly, annual, and other|
+ | Inflation &amp; Prices|
+ |Pay &amp; Benefits &amp; Workplace Injuries|
+ |Productivity &amp; Technology|
+ |Employment Projections|
+ |Regional News Releases|
+ |
+|
+ |
+ |Classroom |
+ |
+|
+ |
+ |K-12 Student &amp; Teacher Resources| 
+ |Games &amp; Quizzes|
+ |Student&apos;s Desk|
+ |Teacher&apos;s Desk|
+ |Questions &amp; Answers|
+ |
+|
+|
+ |
+ |Beta |
+ |
+
+|
+ |
+ |Redesigned News Releases|
+ |
+|
+|
+ |
+
+|
+
+
+ |
+|
+|
+
+
+ |
+ |
+ |
+|
+
+
+|
+
+|
+
+ |
+ 
+|
+|
+ |
+ |
+ 
+|
+|
+|
+|Economic News Release|
+
+|
+|
+|
+ | 
+|
+ |
+ |
+ SHARE ON:
+ |
+ |
+ |
+ |-->
+ |
+ |
+ |
+ |PRINT:|
+ |
+|
+
+|
+ 
+|
+ |ATUS |
+ |
+ |
+ |
+ |
+ |
+ |American Time Use Survey|
+ | |&times;| |
+ |
+ |
+ |
+ |ATUS Homepage|
+ |ATUS Overview|
+ |ATUS FAQs|
+ |Contact ATUS|
+ |
+ |
+ |
+ |Close|
+ |
+ |
+ |
+ |
+|
+ 
+|
+ 
+ | |
+ |
+
+|
+
+| 
+ |
+ |
+ |
+ 
+
+|
+
+|
+|
+|Table 8B. Time spent in primary activities for the civilian population 18 years and over by presence and age of youngest household child and sex, 2025 annual averages, employed
+|
+|
+|
+
+|
+
+|Table 8B. Time spent in primary activities for the civilian population 18 years and over by presence and age of youngest household child and sex, 2025 annual averages, employed|
+
+
+|
+|
+ |Activity|
+ |Average hours per day spent in primary activities|
+|
+|
+ |Household child under 18|
+ |No household children under 18|
+|
+|
+ |Total|
+ |Youngest household child| under 6|
+ |Youngest household child|6 to 17|
+ |Total|
+ |Men|
+ |Women|
+|
+|
+ |Total|
+ |Men|
+ |Women|
+ |Total|
+ |Men|
+ |Women|
+ |Total|
+ |Men|
+ |Women|
+|
+|
+
+
+|
+|
+ |Total, all activities|(|1|)|
+ |24.00|
+ |24.00|
+ |24.00|
+ |24.00|
+ |24.00|
+ |24.00|
+ |24.00|
+ |24.00|
+ |24.00|
+ |24.00|
+ |24.00|
+ |24.00|
+|
+
+|
+ |Personal care activities|
+ |9.35|
+ |9.29|
+ |9.41|
+ |9.29|
+ |9.06|
+ |9.56|
+ |9.39|
+ |9.46|
+ |9.31|
+ |9.58|
+ |9.33|
+ |9.88|
+|
+
+|
+ |Sleeping|(|2|)|
+ |8.56|
+ |8.58|
+ |8.53|
+ |8.56|
+ |8.41|
+ |8.73|
+ |8.56|
+ |8.70|
+ |8.40|
+ |8.83|
+ |8.66|
+ |9.02|
+|
+
+|
+ |Eating and drinking|
+ |1.19|
+ |1.25|
+ |1.12|
+ |1.25|
+ |1.34|
+ |1.13|
+ |1.15|
+ |1.19|
+ |1.11|
+ |1.16|
+ |1.17|
+ |1.14|
+|
+
+|
+ |Household activities|
+ |1.71|
+ |1.45|
+ |2.00|
+ |1.51|
+ |1.32|
+ |1.73|
+ |1.85|
+ |1.54|
+ |2.18|
+ |1.62|
+ |1.36|
+ |1.93|
+|
+
+|
+ |Housework|
+ |0.47|
+ |0.27|
+ |0.70|
+ |0.40|
+ |0.23|
+ |0.61|
+ |0.52|
+ |0.30|
+ |0.76|
+ |0.42|
+ |0.25|
+ |0.61|
+|
+
+|
+ |Food preparation and cleanup|
+ |0.74|
+ |0.56|
+ |0.94|
+ |0.73|
+ |0.59|
+ |0.90|
+ |0.74|
+ |0.54|
+ |0.97|
+ |0.58|
+ |0.48|
+ |0.69|
+|
+
+|
+ |Lawn and garden care|
+ |0.13|
+ |0.21|
+ |0.03|
+ |0.06|
+ |0.11|
+ |(|3|)|-|
+ |0.17|
+ |0.29|
+ |0.04|
+ |0.14|
+ |0.16|
+ |0.12|
+|
+
+|
+ |Household management|
+ |0.11|
+ |0.09|
+ |0.12|
+ |0.11|
+ |0.12|
+ |0.09|
+ |0.11|
+ |0.08|
+ |0.14|
+ |0.15|
+ |0.10|
+ |0.20|
+|
+
+|
+ |Purchasing goods and services|
+ |0.58|
+ |0.52|
+ |0.64|
+ |0.54|
+ |0.54|
+ |0.53|
+ |0.60|
+ |0.50|
+ |0.72|
+ |0.68|
+ |0.64|
+ |0.72|
+|
+
+|
+ |Consumer goods purchases|
+ |0.29|
+ |0.26|
+ |0.33|
+ |0.24|
+ |0.26|
+ |0.23|
+ |0.33|
+ |0.27|
+ |0.39|
+ |0.29|
+ |0.26|
+ |0.32|
+|
+
+|
+ |Professional and personal care services|
+ |0.06|
+ |0.04|
+ |0.10|
+ |0.07|
+ |0.04|
+ |0.11|
+ |0.06|
+ |0.04|
+ |0.09|
+ |0.09|
+ |0.08|
+ |0.10|
+|
+
+|
+ |Caring for and helping household members|
+ |1.22|
+ |0.98|
+ |1.50|
+ |1.92|
+ |1.54|
+ |2.37|
+ |0.73|
+ |0.58|
+ |0.91|
+ |0.08|
+ |0.10|
+ |0.05|
+|
+
+|
+ |Caring for and helping household children|
+ |0.99|
+ |0.78|
+ |1.22|
+ |1.69|
+ |1.39|
+ |2.04|
+ |0.50|
+ |0.35|
+ |0.67|
+ |-|
+ |-|
+ |-|
+|
+
+|
+ |Caring for and helping nonhousehold members|
+ |0.06|
+ |0.07|
+ |0.06|
+ |0.05|
+ |(|4|)|-|
+ |0.04|
+ |0.07|
+ |0.07|
+ |0.07|
+ |0.14|
+ |0.14|
+ |0.14|
+|
+
+|
+ |Caring for and helping nonhousehold adults|
+ |0.03|
+ |0.03|
+ |0.03|
+ |0.01|
+ |(|4|)|-|
+ |(|3|)|-|
+ |0.04|
+ |0.03|
+ |0.05|
+ |0.05|
+ |0.05|
+ |0.04|
+|
+
+|
+ |Working and work-related activities|
+ |5.55|
+ |5.82|
+ |5.25|
+ |5.30|
+ |5.70|
+ |4.82|
+ |5.73|
+ |5.90|
+ |5.53|
+ |5.44|
+ |5.70|
+ |5.14|
+|
+
+|
+ |Working|
+ |5.10|
+ |5.25|
+ |4.93|
+ |4.86|
+ |5.12|
+ |4.55|
+ |5.26|
+ |5.33|
+ |5.19|
+ |5.05|
+ |5.24|
+ |4.83|
+|
+
+|
+ |Educational activities|
+ |0.21|
+ |(|4|)|-|
+ |0.20|
+ |(|4|)|-|
+ |(|4|)|-|
+ |(|4|)|-|
+ |0.13|
+ |(|4|)|-|
+ |0.17|
+ |0.22|
+ |0.21|
+ |0.23|
+|
+
+|
+ |Attending class|
+ |0.05|
+ |(|4|)|-|
+ |(|4|)|-|
+ |(|4|)|-|
+ |(|4|)|-|
+ |(|4|)|-|
+ |(|4|)|-|
+ |(|4|)|-|
+ |(|4|)|-|
+ |0.09|
+ |0.09|
+ |0.08|
+|
+
+|
+ |Homework and research|
+ |0.16|
+ |(|4|)|-|
+ |0.16|
+ |(|4|)|-|
+ |(|4|)|-|
+ |0.22|
+ |0.09|
+ |(|4|)|-|
+ |(|4|)|-|
+ |0.12|
+ |0.10|
+ |0.14|
+|
+
+|
+ |Organizational, civic, and religious activities|
+ |0.22|
+ |0.22|
+ |0.23|
+ |0.24|
+ |0.22|
+ |0.25|
+ |0.21|
+ |0.21|
+ |0.21|
+ |0.18|
+ |0.14|
+ |0.21|
+|
+
+|
+ |Religious and spiritual activities|
+ |0.12|
+ |0.12|
+ |0.13|
+ |0.14|
+ |0.14|
+ |0.15|
+ |0.11|
+ |0.11|
+ |0.11|
+ |0.09|
+ |0.06|
+ |0.11|
+|
+
+|
+ |Volunteering (organizational and civic activities)|
+ |0.07|
+ |0.07|
+ |0.06|
+ |0.05|
+ |0.05|
+ |0.05|
+ |0.07|
+ |0.08|
+ |0.06|
+ |0.06|
+ |0.06|
+ |0.07|
+|
+
+|
+ |Leisure and sports|
+ |3.53|
+ |3.80|
+ |3.21|
+ |3.18|
+ |3.37|
+ |2.97|
+ |3.76|
+ |4.11|
+ |3.37|
+ |4.53|
+ |4.84|
+ |4.18|
+|
+
+|
+ |Socializing and communicating|
+ |0.59|
+ |0.58|
+ |0.61|
+ |0.74|
+ |0.71|
+ |0.77|
+ |0.49|
+ |0.49|
+ |0.49|
+ |0.51|
+ |0.41|
+ |0.62|
+|
+
+|
+ |Watching television|
+ |1.58|
+ |1.68|
+ |1.47|
+ |1.29|
+ |1.37|
+ |1.21|
+ |1.78|
+ |1.90|
+ |1.64|
+ |2.22|
+ |2.38|
+ |2.04|
+|
+
+|
+ |Participating in sports, exercise, and recreation|
+ |0.30|
+ |0.35|
+ |0.24|
+ |0.29|
+ |0.34|
+ |0.24|
+ |0.31|
+ |0.36|
+ |0.24|
+ |0.32|
+ |0.37|
+ |0.27|
+|
+
+|
+ |Telephone calls, mail, and e-mail|
+ |0.07|
+ |0.07|
+ |0.07|
+ |0.03|
+ |0.04|
+ |0.03|
+ |0.09|
+ |0.09|
+ |0.10|
+ |0.15|
+ |0.11|
+ |0.19|
+|
+
+|
+ |Other activities, not elsewhere classified|
+ |0.31|
+ |0.31|
+ |0.32|
+ |0.36|
+ |0.38|
+ |0.32|
+ |0.29|
+ |0.26|
+ |0.32|
+ |0.23|
+ |0.26|
+ |0.20|
+|
+
+|
+
+|
+|
+|
+ |
+ |Footnotes|
+ |(1) |All major activity categories include related travel time. See Technical Note for activity category definitions.|
+ |(2) |Includes naps and spells of sleeplessness.|
+ |(3) |Estimate is approximately zero.|
+ |(4) |Estimate is suppressed because it does not meet the American Time Use Survey publication standards.|
+ |
+|
+|
+
+|
+|
+ |
+ - Not applicable.|
+ NOTE: A primary activity refers to an individual's main activity. Other activities done simultaneously are not included.|
+ |
+|
+|
+
+|
+|
+|
+| Table of Contents |
+|Last Modified Date:| June 25, 2026
+| |
+|
+|
+|
+|
+ |
+|
+ |
+ |
+ |
+
+
+|
+
+
+|
+ 
+ 
+ |
+
+
+ 
+
+
+|
+
+|
+|
+| 
+|
+|
+ |Home|
+ |Subjects|
+ |Data Tools|
+ |Publications|
+ |Economic Releases|
+ |Classroom|
+ |Beta|
+|
+|
+
+|
+ 
+
+
+|
+
+|
+|
+|
+ |
+ 
+ 
+| 
+|
+|
+
+ |
+ | 
+|
+
+| 
+|U.S. Bureau of Labor Statistics|
+|American Time Use Survey| 
+|Office of Employment and Unemployment Statistics| 
+|Suitland Federal Center|
+|Floor 3|
+|4600 Silver Hill Road| 
+|Washington, DC 20212-0002|
+|
+
+|
+
+
+|
+
+
+| 
+
+|
+|Telephone:| 202-691-6339 |
+
+|
+
+
+|www.bls.gov/TUS|
+|Contact TUS|
+
+|
+ 
+
+
+
+|
+|
+|
+|
+
+ |
+ |
+ |resources|
+ |
+ |
+ | 
+ |Inspector General (OIG)|
+ |Budget and Performance|
+ |Department of Labor Grants|
+ |No Fear Act|
+ |USA.gov|
+ |
+ |
+ | 
+ |
+ |about the site|
+ |
+ |
+ | 
+ |Sitemap| 
+ |Freedom of Information Act|
+ |Privacy and Security Statement|
+ |Disclaimers|
+ |Linking and Copyright Info| 
+ |Important Website Notices|
+ |Help and Tutorials|
+ |Accessibility Statement|
+ |
+ |
+ | 
+ |
+ 
+|
+|
+|
+|
+
+|
+
+|
+|Connect With BLS|
+ | 
+
+ |
+ |
+ |
+ |Bluesky|
+ |
+
+ |
+ |
+ |
+ |Instagram|
+ |
+
+ |
+ |
+ |
+ |LinkedIn|
+ |
+
+ |
+ |
+ |
+ |Threads|
+ | 
+ 
+ |
+ |
+ |
+ |Visit BLS on X|
+ |
+ 
+ |
+ |
+ |
+ |Youtube|
+ |
+ |
+ |
+ |
+ |Email|
+ |
+ |
+|
+|
+|
+|
+|
+
+|
+|
+|

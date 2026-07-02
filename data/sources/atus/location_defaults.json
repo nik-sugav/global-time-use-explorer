@@ -1,0 +1,72 @@
+{
+  "sleep": {
+    "location": "home",
+    "basis": "reasonable_default",
+    "note": "No TEWHERE/location table was found in the 2025 ATUS news release tables (BLS discontinued the standalone published 'where' table in recent releases; it is only available via custom extraction from the ATUS Database, which was out of scope for table transcription). 'home' is an obviously dominant default for sleep and is not survey-derived from a table we fetched."
+  },
+  "personal_care": {
+    "location": "home",
+    "basis": "reasonable_default",
+    "note": "No TEWHERE table found; grooming/hygiene/health-related self-care is overwhelmingly done at home. Reasonable default, not survey-derived."
+  },
+  "eating": {
+    "location": "home",
+    "basis": "reasonable_default",
+    "note": "No TEWHERE table found; most eating and drinking primary-activity time in the U.S. occurs at home (though a meaningful share is at workplaces/restaurants). Reasonable default, not survey-derived."
+  },
+  "paid_work": {
+    "location": "workplace",
+    "basis": "survey_derived_partial",
+    "note": "BLS ATUS 2025 News Release Table 6 ('Employed people working at home, workplace, and time spent working at each location...') reports that among employed people who worked on an average day, 69.8% worked at their workplace and 34.5% did some work at home (these can overlap on the same day). Workplace is the clear majority location, supporting 'workplace' as the default, though this is a partial signal (percent-who-worked-there, not minutes-weighted location share, and does not cover the full 'paid_work' bucket which also includes travel-adjacent and job-search time)."
+  },
+  "education": {
+    "location": "school",
+    "basis": "reasonable_default",
+    "note": "No TEWHERE table found. 'Attending class' and 'homework and research' are the two largest ATUS sub-components of educational activities; attending class strongly implies 'school', though homework is often done at home. Reasonable default, not survey-derived."
+  },
+  "household": {
+    "location": "home",
+    "basis": "reasonable_default",
+    "note": "No TEWHERE table found; housework, cooking, cleaning, and household management are overwhelmingly home-based by definition. Reasonable default, not survey-derived."
+  },
+  "caregiving": {
+    "location": "home",
+    "basis": "reasonable_default",
+    "note": "No TEWHERE table found; caring for household members (the largest component of this bucket) is predominantly home-based. Reasonable default, not survey-derived."
+  },
+  "shopping": {
+    "location": "other_public",
+    "basis": "reasonable_default",
+    "note": "No TEWHERE table found; consumer goods purchases and grocery shopping are predominantly done at stores/retail locations, captured here as 'other_public'. Reasonable default, not survey-derived."
+  },
+  "commute": {
+    "location": "transit",
+    "basis": "reasonable_default",
+    "note": "By definition this category is built from ATUS 'travel related to X' sub-lines (Table A-1), so it is inherently in-transit. Direct logical default, not a separate survey-derived location table."
+  },
+  "screen_leisure": {
+    "location": "home",
+    "basis": "reasonable_default",
+    "note": "No TEWHERE table found; watching TV is overwhelmingly a home activity. Reasonable default, not survey-derived."
+  },
+  "socializing": {
+    "location": "home",
+    "basis": "reasonable_default",
+    "note": "No TEWHERE table found; socializing/relaxing/telephone calls occur in a mix of home and other settings, but home is the single most defensible default given it is the largest share of total leisure time. Reasonable default, not survey-derived."
+  },
+  "exercise": {
+    "location": "other_public",
+    "basis": "reasonable_default",
+    "note": "No TEWHERE table found; sports, exercise, and recreation commonly occur outdoors, at gyms, or other public recreational facilities. Reasonable default, not survey-derived."
+  },
+  "civic_religious": {
+    "location": "other_public",
+    "basis": "reasonable_default",
+    "note": "No TEWHERE table found; religious services, volunteering, and civic/government-services activities typically occur at churches, community organizations, or government offices, captured here as 'other_public'. Reasonable default, not survey-derived."
+  },
+  "other": {
+    "location": "unknown",
+    "basis": "reasonable_default",
+    "note": "This is a residual 'not elsewhere classified' bucket (ATUS code 50 and unclassifiable time); no single location is dominant or defensible. Reasonable default, not survey-derived."
+  }
+}

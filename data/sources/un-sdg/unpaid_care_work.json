@@ -1,0 +1,3010 @@
+[
+  {
+    "country": "ALB",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 313.0,
+    "dataYear": 2011,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ALB",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 275.0,
+    "dataYear": 2011,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ALB",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 355.0,
+    "dataYear": 2011,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ALB",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 50.0,
+    "dataYear": 2011,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ALB",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 43.0,
+    "dataYear": 2011,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ALB",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 56.0,
+    "dataYear": 2011,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ARG",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 252.0,
+    "dataYear": 2010,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "ARG",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 95.0,
+    "dataYear": 2010,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "ARM",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 311.9,
+    "dataYear": 2008,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "ARM",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 292.5,
+    "dataYear": 2008,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "ARM",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 356.5,
+    "dataYear": 2008,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "ARM",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 62.9,
+    "dataYear": 2008,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "ARM",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 50.0,
+    "dataYear": 2008,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "ARM",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 88.3,
+    "dataYear": 2008,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "AUS",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 258.0,
+    "dataYear": 2024,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "AUS",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 182.0,
+    "dataYear": 2024,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "AUT",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 218.4,
+    "dataYear": 2022,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "AUT",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 204.2,
+    "dataYear": 2022,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "AUT",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 224.8,
+    "dataYear": 2022,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "AUT",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 119.0,
+    "dataYear": 2022,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "AUT",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 120.0,
+    "dataYear": 2022,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "AUT",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 118.6,
+    "dataYear": 2022,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "AZE",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 366.0,
+    "dataYear": 2008,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "AZE",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 128.0,
+    "dataYear": 2008,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "BEL",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 224.5,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "BEL",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 141.5,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "BGD",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 345.3,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "BGD",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 356.1,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "BGD",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 47.3,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "BGD",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 46.8,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "BGR",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 250.7,
+    "dataYear": 2023,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "BGR",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 236.8,
+    "dataYear": 2023,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "BGR",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 290.9,
+    "dataYear": 2023,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "BGR",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 122.3,
+    "dataYear": 2023,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "BGR",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 120.3,
+    "dataYear": 2023,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "BGR",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 127.5,
+    "dataYear": 2023,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "BLR",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 276.0,
+    "dataYear": 2015,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "BLR",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 137.0,
+    "dataYear": 2015,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "BOL",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 332.9,
+    "dataYear": 2001,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "BOL",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 323.8,
+    "dataYear": 2001,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "BOL",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 350.9,
+    "dataYear": 2001,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "BOL",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 174.7,
+    "dataYear": 2001,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "BOL",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 171.0,
+    "dataYear": 2001,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "BOL",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 181.1,
+    "dataYear": 2001,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "BRA",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 254.0,
+    "dataYear": 2009,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "BRA",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 86.0,
+    "dataYear": 2009,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "BTN",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 191.0,
+    "dataYear": 2007,
+    "ageGroup": "all"
+  },
+  {
+    "country": "BTN",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 73.0,
+    "dataYear": 2007,
+    "ageGroup": "all"
+  },
+  {
+    "country": "CAN",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 237.0,
+    "dataYear": 2023,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CAN",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 227.4,
+    "dataYear": 2023,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CAN",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 287.4,
+    "dataYear": 2023,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CAN",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 167.4,
+    "dataYear": 2023,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CAN",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 160.8,
+    "dataYear": 2023,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CAN",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 210.6,
+    "dataYear": 2023,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CHE",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 249.3,
+    "dataYear": 2020,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CHE",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 242.9,
+    "dataYear": 2020,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CHE",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 270.5,
+    "dataYear": 2020,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CHE",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 165.2,
+    "dataYear": 2020,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CHE",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 163.0,
+    "dataYear": 2020,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CHE",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 171.1,
+    "dataYear": 2020,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CHL",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 265.2,
+    "dataYear": 2023,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "CHL",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 151.3,
+    "dataYear": 2023,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "CHN",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 221.0,
+    "dataYear": 2018,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CHN",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 220.0,
+    "dataYear": 2018,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CHN",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 226.0,
+    "dataYear": 2018,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CHN",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 85.0,
+    "dataYear": 2018,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CHN",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 92.0,
+    "dataYear": 2018,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CHN",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 78.0,
+    "dataYear": 2018,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CMR",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 209.5,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "CMR",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 218.5,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "CMR",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 203.4,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "CMR",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 68.2,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "CMR",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 69.0,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "CMR",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 67.5,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "COL",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 239.4,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "COL",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 227.2,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "COL",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 286.1,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "COL",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 72.5,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "COL",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 74.0,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "COL",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 67.8,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "CRI",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 311.7,
+    "dataYear": 2022,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "CRI",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 303.0,
+    "dataYear": 2022,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "CRI",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 337.6,
+    "dataYear": 2022,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "CRI",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 148.4,
+    "dataYear": 2022,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "CRI",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 149.1,
+    "dataYear": 2022,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "CRI",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 145.6,
+    "dataYear": 2022,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "CUB",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 302.4,
+    "dataYear": 2016,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "CUB",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 179.6,
+    "dataYear": 2016,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "DEU",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 217.8,
+    "dataYear": 2022,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "DEU",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 216.6,
+    "dataYear": 2022,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "DEU",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 222.0,
+    "dataYear": 2022,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "DEU",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 145.8,
+    "dataYear": 2022,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "DEU",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 145.2,
+    "dataYear": 2022,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "DEU",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 148.2,
+    "dataYear": 2022,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "DNK",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 210.0,
+    "dataYear": 2001,
+    "ageGroup": "16+"
+  },
+  {
+    "country": "DNK",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 146.0,
+    "dataYear": 2001,
+    "ageGroup": "16+"
+  },
+  {
+    "country": "DOM",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 208.7,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "DOM",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 206.9,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "DOM",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 218.8,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "DOM",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 85.0,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "DOM",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 86.4,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "DOM",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 79.0,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "DZA",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 312.0,
+    "dataYear": 2012,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "DZA",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 300.0,
+    "dataYear": 2012,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "DZA",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 330.0,
+    "dataYear": 2012,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "DZA",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 54.0,
+    "dataYear": 2012,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "DZA",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 54.0,
+    "dataYear": 2012,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "DZA",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 48.0,
+    "dataYear": 2012,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "ECU",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 261.9,
+    "dataYear": 2017,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "ECU",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 94.7,
+    "dataYear": 2017,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "EGY",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 322.0,
+    "dataYear": 2015,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "EGY",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 35.0,
+    "dataYear": 2015,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ESP",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 273.0,
+    "dataYear": 2010,
+    "ageGroup": "20-74"
+  },
+  {
+    "country": "ESP",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 124.0,
+    "dataYear": 2010,
+    "ageGroup": "20-74"
+  },
+  {
+    "country": "EST",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 223.8,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "EST",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 148.8,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ETH",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 278.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ETH",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 95.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "FIN",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 193.8,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "FIN",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 191.8,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "FIN",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 208.3,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "FIN",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 147.3,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "FIN",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 142.5,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "FIN",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 178.8,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "FJI",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 218.3,
+    "dataYear": 2016,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "FJI",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 200.0,
+    "dataYear": 2016,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "FJI",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 240.5,
+    "dataYear": 2016,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "FJI",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 74.8,
+    "dataYear": 2016,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "FJI",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 71.0,
+    "dataYear": 2016,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "FJI",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 79.0,
+    "dataYear": 2016,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "FRA",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 227.1,
+    "dataYear": 2010,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "FRA",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 136.7,
+    "dataYear": 2010,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "GBR",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 230.5,
+    "dataYear": 2022,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "GBR",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 176.4,
+    "dataYear": 2022,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "GEO",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 256.2,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "GEO",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 249.4,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "GEO",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 266.6,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "GEO",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 53.4,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "GEO",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 54.5,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "GEO",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 52.1,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "GHA",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 208.0,
+    "dataYear": 2009,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "GHA",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 51.0,
+    "dataYear": 2009,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "GRC",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 252.0,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "GRC",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 241.0,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "GRC",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 285.0,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "GRC",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 96.0,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "GRC",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 92.0,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "GRC",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 117.0,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "GTM",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 280.6,
+    "dataYear": 2017,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "GTM",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 266.4,
+    "dataYear": 2017,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "GTM",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 296.1,
+    "dataYear": 2017,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "GTM",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 37.5,
+    "dataYear": 2017,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "GTM",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 44.5,
+    "dataYear": 2017,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "GTM",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 30.6,
+    "dataYear": 2017,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "HKG",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 156.0,
+    "dataYear": 2013,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "HKG",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 48.0,
+    "dataYear": 2013,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "HND",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 249.1,
+    "dataYear": 2009,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "HND",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 243.8,
+    "dataYear": 2009,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "HND",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 254.5,
+    "dataYear": 2009,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "HND",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 62.1,
+    "dataYear": 2009,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "HND",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 81.9,
+    "dataYear": 2009,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "HND",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 45.2,
+    "dataYear": 2009,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "HUN",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 238.7,
+    "dataYear": 2010,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "HUN",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 232.5,
+    "dataYear": 2010,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "HUN",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 253.4,
+    "dataYear": 2010,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "HUN",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 110.2,
+    "dataYear": 2010,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "HUN",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 109.1,
+    "dataYear": 2010,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "HUN",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 112.7,
+    "dataYear": 2010,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "IND",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 280.0,
+    "dataYear": 2019,
+    "ageGroup": "6+"
+  },
+  {
+    "country": "IND",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 268.0,
+    "dataYear": 2019,
+    "ageGroup": "6+"
+  },
+  {
+    "country": "IND",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 284.0,
+    "dataYear": 2019,
+    "ageGroup": "6+"
+  },
+  {
+    "country": "IND",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 36.0,
+    "dataYear": 2019,
+    "ageGroup": "6+"
+  },
+  {
+    "country": "IND",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 31.0,
+    "dataYear": 2019,
+    "ageGroup": "6+"
+  },
+  {
+    "country": "IND",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 38.0,
+    "dataYear": 2019,
+    "ageGroup": "6+"
+  },
+  {
+    "country": "IRL",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 296.0,
+    "dataYear": 2005,
+    "ageGroup": "15-64"
+  },
+  {
+    "country": "IRL",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 129.0,
+    "dataYear": 2005,
+    "ageGroup": "15-64"
+  },
+  {
+    "country": "IRN",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 324.0,
+    "dataYear": 2020,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "IRN",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 65.0,
+    "dataYear": 2020,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "IRQ",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 347.0,
+    "dataYear": 2007,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "IRQ",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 60.0,
+    "dataYear": 2007,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ITA",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 258.0,
+    "dataYear": 2014,
+    "ageGroup": "3+"
+  },
+  {
+    "country": "ITA",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 252.6,
+    "dataYear": 2014,
+    "ageGroup": "3+"
+  },
+  {
+    "country": "ITA",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 273.6,
+    "dataYear": 2014,
+    "ageGroup": "3+"
+  },
+  {
+    "country": "ITA",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 97.8,
+    "dataYear": 2014,
+    "ageGroup": "3+"
+  },
+  {
+    "country": "ITA",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 98.4,
+    "dataYear": 2014,
+    "ageGroup": "3+"
+  },
+  {
+    "country": "ITA",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 96.0,
+    "dataYear": 2014,
+    "ageGroup": "3+"
+  },
+  {
+    "country": "JPN",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 204.0,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "JPN",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 51.0,
+    "dataYear": 2021,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "KAZ",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 224.4,
+    "dataYear": 2024,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "KAZ",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 219.0,
+    "dataYear": 2024,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "KAZ",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 262.2,
+    "dataYear": 2024,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "KAZ",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 89.4,
+    "dataYear": 2024,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "KAZ",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 81.6,
+    "dataYear": 2024,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "KAZ",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 129.0,
+    "dataYear": 2024,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "KEN",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 269.2,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "KEN",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 271.7,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "KEN",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 267.8,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "KEN",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 52.0,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "KEN",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 58.1,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "KEN",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 48.5,
+    "dataYear": 2021,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "KGZ",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 271.8,
+    "dataYear": 2020,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "KGZ",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 252.6,
+    "dataYear": 2020,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "KGZ",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 294.0,
+    "dataYear": 2020,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "KGZ",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 93.0,
+    "dataYear": 2020,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "KGZ",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 87.0,
+    "dataYear": 2020,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "KGZ",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 99.0,
+    "dataYear": 2020,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "KHM",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 180.0,
+    "dataYear": 2004,
+    "ageGroup": "15-64"
+  },
+  {
+    "country": "KHM",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 18.0,
+    "dataYear": 2004,
+    "ageGroup": "15-64"
+  },
+  {
+    "country": "KOR",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 178.0,
+    "dataYear": 2019,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "KOR",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 176.0,
+    "dataYear": 2019,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "KOR",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 186.0,
+    "dataYear": 2019,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "KOR",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 52.0,
+    "dataYear": 2019,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "KOR",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 51.0,
+    "dataYear": 2019,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "KOR",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 59.0,
+    "dataYear": 2019,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "LAO",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 150.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "LAO",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 36.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "LBR",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 90.6,
+    "dataYear": 2010,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "LBR",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 95.8,
+    "dataYear": 2010,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "LBR",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 85.0,
+    "dataYear": 2010,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "LBR",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 37.1,
+    "dataYear": 2010,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "LBR",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 35.3,
+    "dataYear": 2010,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "LBR",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 39.1,
+    "dataYear": 2010,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "LKA",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 337.0,
+    "dataYear": 2017,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "LKA",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 90.0,
+    "dataYear": 2017,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "LSO",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 224.0,
+    "dataYear": 2003,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "LSO",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 89.0,
+    "dataYear": 2003,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "LTU",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 241.0,
+    "dataYear": 2003,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "LTU",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 120.0,
+    "dataYear": 2003,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "LUX",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 208.0,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "LUX",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 102.0,
+    "dataYear": 2014,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "LVA",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 263.0,
+    "dataYear": 2003,
+    "ageGroup": "20-74"
+  },
+  {
+    "country": "LVA",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 131.0,
+    "dataYear": 2003,
+    "ageGroup": "20-74"
+  },
+  {
+    "country": "MAR",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 300.0,
+    "dataYear": 2012,
+    "ageGroup": "7+"
+  },
+  {
+    "country": "MAR",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 279.0,
+    "dataYear": 2012,
+    "ageGroup": "7+"
+  },
+  {
+    "country": "MAR",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 332.0,
+    "dataYear": 2012,
+    "ageGroup": "7+"
+  },
+  {
+    "country": "MAR",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 43.0,
+    "dataYear": 2012,
+    "ageGroup": "7+"
+  },
+  {
+    "country": "MAR",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 14.0,
+    "dataYear": 2012,
+    "ageGroup": "7+"
+  },
+  {
+    "country": "MAR",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 50.0,
+    "dataYear": 2012,
+    "ageGroup": "7+"
+  },
+  {
+    "country": "MDA",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 280.2,
+    "dataYear": 2012,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MDA",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 239.9,
+    "dataYear": 2012,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MDA",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 316.4,
+    "dataYear": 2012,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MDA",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 157.8,
+    "dataYear": 2012,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MDA",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 118.1,
+    "dataYear": 2012,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MDA",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 181.8,
+    "dataYear": 2012,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MDG",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 225.0,
+    "dataYear": 2001,
+    "ageGroup": "6-65"
+  },
+  {
+    "country": "MDG",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 210.0,
+    "dataYear": 2001,
+    "ageGroup": "6-65"
+  },
+  {
+    "country": "MDG",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 55.0,
+    "dataYear": 2001,
+    "ageGroup": "6-65"
+  },
+  {
+    "country": "MDG",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 40.0,
+    "dataYear": 2001,
+    "ageGroup": "6-65"
+  },
+  {
+    "country": "MEX",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 296.7,
+    "dataYear": 2024,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "MEX",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 287.2,
+    "dataYear": 2024,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "MEX",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 333.2,
+    "dataYear": 2024,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "MEX",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 119.6,
+    "dataYear": 2024,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "MEX",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 124.3,
+    "dataYear": 2024,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "MEX",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 100.8,
+    "dataYear": 2024,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "MKD",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 222.0,
+    "dataYear": 2015,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MKD",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 193.0,
+    "dataYear": 2015,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MKD",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 265.0,
+    "dataYear": 2015,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MKD",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 78.0,
+    "dataYear": 2015,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MKD",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 73.0,
+    "dataYear": 2015,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MKD",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 83.0,
+    "dataYear": 2015,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MLI",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 294.0,
+    "dataYear": 2008,
+    "ageGroup": "15-49"
+  },
+  {
+    "country": "MLI",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 318.0,
+    "dataYear": 2008,
+    "ageGroup": "15-49"
+  },
+  {
+    "country": "MLI",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 36.0,
+    "dataYear": 2008,
+    "ageGroup": "15-49"
+  },
+  {
+    "country": "MLI",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 24.0,
+    "dataYear": 2008,
+    "ageGroup": "15-49"
+  },
+  {
+    "country": "MLT",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 270.0,
+    "dataYear": 2002,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MLT",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 101.0,
+    "dataYear": 2002,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MNG",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 266.5,
+    "dataYear": 2023,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "MNG",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 259.1,
+    "dataYear": 2023,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "MNG",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 285.2,
+    "dataYear": 2023,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "MNG",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 129.7,
+    "dataYear": 2023,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "MNG",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 133.8,
+    "dataYear": 2023,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "MNG",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 121.7,
+    "dataYear": 2023,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "MUS",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 273.0,
+    "dataYear": 2003,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MUS",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 69.0,
+    "dataYear": 2003,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "MWI",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 125.0,
+    "dataYear": 2005,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "MWI",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 18.0,
+    "dataYear": 2005,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "MYS",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 275.0,
+    "dataYear": 2003,
+    "ageGroup": "15-64"
+  },
+  {
+    "country": "MYS",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 86.0,
+    "dataYear": 2003,
+    "ageGroup": "15-64"
+  },
+  {
+    "country": "NLD",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 218.0,
+    "dataYear": 2003,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "NLD",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 116.0,
+    "dataYear": 2003,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "NOR",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 208.8,
+    "dataYear": 2023,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "NOR",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 204.6,
+    "dataYear": 2023,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "NOR",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 228.0,
+    "dataYear": 2023,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "NOR",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 165.6,
+    "dataYear": 2023,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "NOR",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 160.2,
+    "dataYear": 2023,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "NOR",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 192.6,
+    "dataYear": 2023,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "NZL",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 260.0,
+    "dataYear": 2010,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "NZL",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 152.0,
+    "dataYear": 2010,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "OMN",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 272.0,
+    "dataYear": 2008,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "OMN",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 263.0,
+    "dataYear": 2008,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "OMN",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 286.0,
+    "dataYear": 2008,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "OMN",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 108.0,
+    "dataYear": 2008,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "OMN",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 104.0,
+    "dataYear": 2008,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "OMN",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 114.0,
+    "dataYear": 2008,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "PAK",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 286.0,
+    "dataYear": 2007,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "PAK",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 270.0,
+    "dataYear": 2007,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "PAK",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 294.0,
+    "dataYear": 2007,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "PAK",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 26.0,
+    "dataYear": 2007,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "PAK",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 26.0,
+    "dataYear": 2007,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "PAK",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 26.0,
+    "dataYear": 2007,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "PAN",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 258.5,
+    "dataYear": 2011,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "PAN",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 109.0,
+    "dataYear": 2011,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "PER",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 326.4,
+    "dataYear": 2010,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "PER",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 310.7,
+    "dataYear": 2010,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "PER",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 376.7,
+    "dataYear": 2010,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "PER",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 127.3,
+    "dataYear": 2010,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "PER",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 119.0,
+    "dataYear": 2010,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "PER",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 152.5,
+    "dataYear": 2010,
+    "ageGroup": "12+"
+  },
+  {
+    "country": "POL",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 254.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "POL",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 243.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "POL",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 270.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "POL",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 138.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "POL",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 137.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "POL",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 136.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "PRT",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 256.5,
+    "dataYear": 2015,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "PRT",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 147.5,
+    "dataYear": 2015,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "PRY",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 267.4,
+    "dataYear": 2016,
+    "ageGroup": "14+"
+  },
+  {
+    "country": "PRY",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 261.4,
+    "dataYear": 2016,
+    "ageGroup": "14+"
+  },
+  {
+    "country": "PRY",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 277.5,
+    "dataYear": 2016,
+    "ageGroup": "14+"
+  },
+  {
+    "country": "PRY",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 110.0,
+    "dataYear": 2016,
+    "ageGroup": "14+"
+  },
+  {
+    "country": "PRY",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 116.9,
+    "dataYear": 2016,
+    "ageGroup": "14+"
+  },
+  {
+    "country": "PRY",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 98.8,
+    "dataYear": 2016,
+    "ageGroup": "14+"
+  },
+  {
+    "country": "PSE",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 256.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "PSE",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 263.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "PSE",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 245.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "PSE",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 43.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "PSE",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 44.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "PSE",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 37.0,
+    "dataYear": 2013,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "QAT",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 118.0,
+    "dataYear": 2013,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "QAT",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 32.0,
+    "dataYear": 2013,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "REU",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 232.0,
+    "dataYear": 2010,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "REU",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 144.0,
+    "dataYear": 2010,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "ROU",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 274.0,
+    "dataYear": 2012,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ROU",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 252.0,
+    "dataYear": 2012,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ROU",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 300.0,
+    "dataYear": 2012,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ROU",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 135.0,
+    "dataYear": 2012,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ROU",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 122.0,
+    "dataYear": 2012,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ROU",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 155.0,
+    "dataYear": 2012,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "RUS",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 234.7,
+    "dataYear": 2024,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "RUS",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 103.7,
+    "dataYear": 2024,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "SLV",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 291.1,
+    "dataYear": 2017,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "SLV",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 273.7,
+    "dataYear": 2017,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "SLV",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 321.2,
+    "dataYear": 2017,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "SLV",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 101.2,
+    "dataYear": 2017,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "SLV",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 106.5,
+    "dataYear": 2017,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "SLV",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 92.7,
+    "dataYear": 2017,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "SRB",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 244.3,
+    "dataYear": 2022,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "SRB",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 228.3,
+    "dataYear": 2022,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "SRB",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 270.6,
+    "dataYear": 2022,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "SRB",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 105.6,
+    "dataYear": 2022,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "SRB",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 100.4,
+    "dataYear": 2022,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "SRB",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 112.6,
+    "dataYear": 2022,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "SVN",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 296.0,
+    "dataYear": 2001,
+    "ageGroup": "20-74"
+  },
+  {
+    "country": "SVN",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 160.0,
+    "dataYear": 2001,
+    "ageGroup": "20-74"
+  },
+  {
+    "country": "SWE",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 231.0,
+    "dataYear": 2011,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "SWE",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 184.7,
+    "dataYear": 2011,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "THA",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 159.0,
+    "dataYear": 2015,
+    "ageGroup": "6+"
+  },
+  {
+    "country": "THA",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 46.8,
+    "dataYear": 2015,
+    "ageGroup": "6+"
+  },
+  {
+    "country": "TUN",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 316.0,
+    "dataYear": 2006,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "TUN",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 39.0,
+    "dataYear": 2006,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "TUR",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 275.8,
+    "dataYear": 2015,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "TUR",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 53.4,
+    "dataYear": 2015,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "TZA",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 237.0,
+    "dataYear": 2014,
+    "ageGroup": "5+"
+  },
+  {
+    "country": "TZA",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 61.0,
+    "dataYear": 2014,
+    "ageGroup": "5+"
+  },
+  {
+    "country": "UGA",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 210.0,
+    "dataYear": 2018,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "UGA",
+    "sex": "female",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 228.0,
+    "dataYear": 2018,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "UGA",
+    "sex": "female",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 204.0,
+    "dataYear": 2018,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "UGA",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 108.0,
+    "dataYear": 2018,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "UGA",
+    "sex": "male",
+    "urbanRural": "urban",
+    "unpaidCareWorkMinutesPerDay": 126.0,
+    "dataYear": 2018,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "UGA",
+    "sex": "male",
+    "urbanRural": "rural",
+    "unpaidCareWorkMinutesPerDay": 96.0,
+    "dataYear": 2018,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "URY",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 283.0,
+    "dataYear": 2007,
+    "ageGroup": "14+"
+  },
+  {
+    "country": "URY",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 110.0,
+    "dataYear": 2007,
+    "ageGroup": "14+"
+  },
+  {
+    "country": "USA",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 222.0,
+    "dataYear": 2023,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "USA",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 145.2,
+    "dataYear": 2023,
+    "ageGroup": "15+"
+  },
+  {
+    "country": "ZAF",
+    "sex": "female",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 224.0,
+    "dataYear": 2010,
+    "ageGroup": "10+"
+  },
+  {
+    "country": "ZAF",
+    "sex": "male",
+    "urbanRural": "all",
+    "unpaidCareWorkMinutesPerDay": 93.0,
+    "dataYear": 2010,
+    "ageGroup": "10+"
+  }
+]

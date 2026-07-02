@@ -1,0 +1,191 @@
+[
+  {
+    "ageGroup": "all",
+    "gender": "all",
+    "categoryMinutes": {
+      "sleep": 541.8,
+      "personal_care": 45.0,
+      "eating": 66.6,
+      "paid_work": 186.0,
+      "education": 25.2,
+      "household": 118.2,
+      "caregiving": 31.2,
+      "shopping": 25.8,
+      "commute": 59.4,
+      "screen_leisure": 156.6,
+      "socializing": 130.2,
+      "exercise": 22.2,
+      "civic_religious": 15.0,
+      "other": 16.2
+    },
+    "sampleNote": "U.S. civilian noninstitutional population 15+, 2025 annual averages. Source: BLS ATUS Table A-1 (Total column). Commute isolated from all 'travel related to X' sub-lines; screen_leisure = Watching TV; socializing includes relaxing/reading/games/computer-use/arts/telephone calls minus their travel line."
+  },
+  {
+    "ageGroup": "all",
+    "gender": "male",
+    "categoryMinutes": {
+      "sleep": 535.8,
+      "personal_care": 38.4,
+      "eating": 68.4,
+      "paid_work": 211.8,
+      "education": 23.4,
+      "household": 93.6,
+      "caregiving": 23.4,
+      "shopping": 22.8,
+      "commute": 62.4,
+      "screen_leisure": 168.6,
+      "socializing": 135.0,
+      "exercise": 27.6,
+      "civic_religious": 13.2,
+      "other": 16.8
+    },
+    "sampleNote": "U.S. men 15+, 2025 annual averages. Source: BLS ATUS Table A-1 (Men column)."
+  },
+  {
+    "ageGroup": "all",
+    "gender": "female",
+    "categoryMinutes": {
+      "sleep": 547.8,
+      "personal_care": 51.6,
+      "eating": 64.8,
+      "paid_work": 160.8,
+      "education": 27.0,
+      "household": 141.0,
+      "caregiving": 38.4,
+      "shopping": 30.6,
+      "commute": 58.2,
+      "screen_leisure": 145.2,
+      "socializing": 127.8,
+      "exercise": 17.4,
+      "civic_religious": 16.2,
+      "other": 16.2
+    },
+    "sampleNote": "U.S. women 15+, 2025 annual averages. Source: BLS ATUS Table A-1 (Women column)."
+  },
+  {
+    "ageGroup": "15-24",
+    "gender": "all",
+    "categoryMinutes": {
+      "sleep": 590.72,
+      "personal_care": 50.38,
+      "eating": 69.3,
+      "paid_work": 136.8,
+      "education": 129.9,
+      "household": 62.4,
+      "caregiving": 18.3,
+      "shopping": 30.0,
+      "commute": 0.0,
+      "screen_leisure": 106.5,
+      "socializing": 179.4,
+      "exercise": 34.5,
+      "civic_religious": 21.0,
+      "other": 11.1
+    },
+    "sampleNote": "U.S. population, 2025 annual averages. Source: BLS ATUS Table 3 (age columns) for the 12 published category totals; Table 11A (age columns) used to split 'Leisure and sports' into screen_leisure (Watching TV) vs exercise (Sports, exercise, and recreation) vs socializing (remainder). NOTE: Table 3 embeds travel time inside each parent activity category rather than isolating it, so commute could not be separated for this row and is reported as 0 minutes here (travel time is folded into paid_work, household, shopping, etc. -- unlike the grand-mean/gender rows, which DO isolate commute using Table A-1). NOTE: sleep was estimated by applying the national sleep-share-of-personal-care ratio from Table A-1 (9.03/9.80 = 92.14%) to this age band's 'Personal care activities' total, because BLS does not publish sleep hours separately by age for 2025; this is a documented estimate, not a directly transcribed age-specific figure. Our '15-24' bin is an unweighted average of ATUS's published '15 to 19 years' and '20 to 24 years' bins (no population-count weights were available from the fetched tables to do a proper weighted merge)."
+  },
+  {
+    "ageGroup": "25-34",
+    "gender": "all",
+    "categoryMinutes": {
+      "sleep": 542.91,
+      "personal_care": 46.29,
+      "eating": 67.8,
+      "paid_work": 274.8,
+      "education": 25.2,
+      "household": 94.8,
+      "caregiving": 49.8,
+      "shopping": 35.4,
+      "commute": 0.0,
+      "screen_leisure": 113.4,
+      "socializing": 143.4,
+      "exercise": 19.8,
+      "civic_religious": 7.8,
+      "other": 17.4
+    },
+    "sampleNote": "U.S. population, 2025 annual averages. Source: BLS ATUS Table 3 (age columns) for the 12 published category totals; Table 11A (age columns) used to split 'Leisure and sports' into screen_leisure (Watching TV) vs exercise (Sports, exercise, and recreation) vs socializing (remainder). NOTE: Table 3 embeds travel time inside each parent activity category rather than isolating it, so commute could not be separated for this row and is reported as 0 minutes here (travel time is folded into paid_work, household, shopping, etc. -- unlike the grand-mean/gender rows, which DO isolate commute using Table A-1). NOTE: sleep was estimated by applying the national sleep-share-of-personal-care ratio from Table A-1 (9.03/9.80 = 92.14%) to this age band's 'Personal care activities' total, because BLS does not publish sleep hours separately by age for 2025; this is a documented estimate, not a directly transcribed age-specific figure. Direct match to ATUS's published '25 to 34 years' bin."
+  },
+  {
+    "ageGroup": "35-44",
+    "gender": "all",
+    "categoryMinutes": {
+      "sleep": 519.69,
+      "personal_care": 44.31,
+      "eating": 69.6,
+      "paid_work": 289.8,
+      "education": 5.4,
+      "household": 118.8,
+      "caregiving": 79.2,
+      "shopping": 43.2,
+      "commute": 0.0,
+      "screen_leisure": 105.6,
+      "socializing": 117.0,
+      "exercise": 18.0,
+      "civic_religious": 10.2,
+      "other": 19.2
+    },
+    "sampleNote": "U.S. population, 2025 annual averages. Source: BLS ATUS Table 3 (age columns) for the 12 published category totals; Table 11A (age columns) used to split 'Leisure and sports' into screen_leisure (Watching TV) vs exercise (Sports, exercise, and recreation) vs socializing (remainder). NOTE: Table 3 embeds travel time inside each parent activity category rather than isolating it, so commute could not be separated for this row and is reported as 0 minutes here (travel time is folded into paid_work, household, shopping, etc. -- unlike the grand-mean/gender rows, which DO isolate commute using Table A-1). NOTE: sleep was estimated by applying the national sleep-share-of-personal-care ratio from Table A-1 (9.03/9.80 = 92.14%) to this age band's 'Personal care activities' total, because BLS does not publish sleep hours separately by age for 2025; this is a documented estimate, not a directly transcribed age-specific figure. Direct match to ATUS's published '35 to 44 years' bin."
+  },
+  {
+    "ageGroup": "45-54",
+    "gender": "all",
+    "categoryMinutes": {
+      "sleep": 524.66,
+      "personal_care": 44.74,
+      "eating": 73.2,
+      "paid_work": 282.0,
+      "education": 1.8,
+      "household": 130.8,
+      "caregiving": 46.8,
+      "shopping": 39.6,
+      "commute": 0.0,
+      "screen_leisure": 135.6,
+      "socializing": 114.6,
+      "exercise": 18.0,
+      "civic_religious": 15.0,
+      "other": 13.8
+    },
+    "sampleNote": "U.S. population, 2025 annual averages. Source: BLS ATUS Table 3 (age columns) for the 12 published category totals; Table 11A (age columns) used to split 'Leisure and sports' into screen_leisure (Watching TV) vs exercise (Sports, exercise, and recreation) vs socializing (remainder). NOTE: Table 3 embeds travel time inside each parent activity category rather than isolating it, so commute could not be separated for this row and is reported as 0 minutes here (travel time is folded into paid_work, household, shopping, etc. -- unlike the grand-mean/gender rows, which DO isolate commute using Table A-1). NOTE: sleep was estimated by applying the national sleep-share-of-personal-care ratio from Table A-1 (9.03/9.80 = 92.14%) to this age band's 'Personal care activities' total, because BLS does not publish sleep hours separately by age for 2025; this is a documented estimate, not a directly transcribed age-specific figure. Direct match to ATUS's published '45 to 54 years' bin."
+  },
+  {
+    "ageGroup": "55-64",
+    "gender": "all",
+    "categoryMinutes": {
+      "sleep": 534.61,
+      "personal_care": 45.59,
+      "eating": 71.4,
+      "paid_work": 229.8,
+      "education": 2.4,
+      "household": 130.8,
+      "caregiving": 24.0,
+      "shopping": 45.0,
+      "commute": 0.0,
+      "screen_leisure": 183.6,
+      "socializing": 125.4,
+      "exercise": 15.0,
+      "civic_religious": 16.8,
+      "other": 15.6
+    },
+    "sampleNote": "U.S. population, 2025 annual averages. Source: BLS ATUS Table 3 (age columns) for the 12 published category totals; Table 11A (age columns) used to split 'Leisure and sports' into screen_leisure (Watching TV) vs exercise (Sports, exercise, and recreation) vs socializing (remainder). NOTE: Table 3 embeds travel time inside each parent activity category rather than isolating it, so commute could not be separated for this row and is reported as 0 minutes here (travel time is folded into paid_work, household, shopping, etc. -- unlike the grand-mean/gender rows, which DO isolate commute using Table A-1). NOTE: sleep was estimated by applying the national sleep-share-of-personal-care ratio from Table A-1 (9.03/9.80 = 92.14%) to this age band's 'Personal care activities' total, because BLS does not publish sleep hours separately by age for 2025; this is a documented estimate, not a directly transcribed age-specific figure. Direct match to ATUS's published '55 to 64 years' bin."
+  },
+  {
+    "ageGroup": "65+",
+    "gender": "all",
+    "categoryMinutes": {
+      "sleep": 539.03,
+      "personal_care": 45.97,
+      "eating": 82.8,
+      "paid_work": 42.0,
+      "education": 0.9,
+      "household": 164.1,
+      "caregiving": 18.3,
+      "shopping": 51.0,
+      "commute": 0.0,
+      "screen_leisure": 258.9,
+      "socializing": 173.1,
+      "exercise": 18.3,
+      "civic_religious": 26.4,
+      "other": 19.5
+    },
+    "sampleNote": "U.S. population, 2025 annual averages. Source: BLS ATUS Table 3 (age columns) for the 12 published category totals; Table 11A (age columns) used to split 'Leisure and sports' into screen_leisure (Watching TV) vs exercise (Sports, exercise, and recreation) vs socializing (remainder). NOTE: Table 3 embeds travel time inside each parent activity category rather than isolating it, so commute could not be separated for this row and is reported as 0 minutes here (travel time is folded into paid_work, household, shopping, etc. -- unlike the grand-mean/gender rows, which DO isolate commute using Table A-1). NOTE: sleep was estimated by applying the national sleep-share-of-personal-care ratio from Table A-1 (9.03/9.80 = 92.14%) to this age band's 'Personal care activities' total, because BLS does not publish sleep hours separately by age for 2025; this is a documented estimate, not a directly transcribed age-specific figure. Our '65+' bin is an unweighted average of ATUS's published '65 to 74 years' and '75 years and over' bins (no population-count weights were available from the fetched tables to do a proper weighted merge)."
+  }
+]

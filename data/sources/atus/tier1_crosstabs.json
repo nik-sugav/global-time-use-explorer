@@ -1,0 +1,66 @@
+{
+  "employment": [],
+  "education": [
+    {
+      "level": "below_secondary",
+      "categoryMinutes": {
+        "sleep": 555.07,
+        "personal_care": 47.33,
+        "eating": 66.6,
+        "paid_work": 178.2,
+        "education": 0.0,
+        "household": 141.6,
+        "caregiving": 37.8,
+        "shopping": 41.4,
+        "commute": 0.0,
+        "screen_leisure": 0.0,
+        "socializing": 339.0,
+        "exercise": 0.0,
+        "civic_religious": 15.0,
+        "other": 16.8
+      },
+      "sampleNote": "U.S. population 25 years and over, 2025 annual averages. Source: BLS ATUS Table 3 (Educational attainment section). Table 3 embeds travel time inside each parent category, so commute could not be isolated and is reported as 0 (folded into paid_work/household/shopping/etc). Table 3/11A do not cross educational attainment with the TV-vs-other leisure split, so per the task's fallback instruction the full leisure+telephone bucket is placed in socializing (screen_leisure=0, exercise=0 for these rows). Sleep was estimated via the same national sleep-share-of-personal-care ratio described for the age rows (documented estimate, not directly transcribed by education level). Maps to ATUS's 'Less than a high school diploma'."
+    },
+    {
+      "level": "secondary",
+      "categoryMinutes": {
+        "sleep": 546.78,
+        "personal_care": 46.62,
+        "eating": 69.0,
+        "paid_work": 183.6,
+        "education": 3.0,
+        "household": 136.2,
+        "caregiving": 35.4,
+        "shopping": 39.6,
+        "commute": 0.0,
+        "screen_leisure": 0.0,
+        "socializing": 352.8,
+        "exercise": 0.0,
+        "civic_religious": 12.6,
+        "other": 15.0
+      },
+      "sampleNote": "U.S. population 25 years and over, 2025 annual averages. Source: BLS ATUS Table 3 (Educational attainment section). Table 3 embeds travel time inside each parent category, so commute could not be isolated and is reported as 0 (folded into paid_work/household/shopping/etc). Table 3/11A do not cross educational attainment with the TV-vs-other leisure split, so per the task's fallback instruction the full leisure+telephone bucket is placed in socializing (screen_leisure=0, exercise=0 for these rows). Sleep was estimated via the same national sleep-share-of-personal-care ratio described for the age rows (documented estimate, not directly transcribed by education level). Maps to ATUS's 'High school graduates, no college'. NOTE: ATUS also publishes a separate 'Some college or associate degree' bucket (partial tertiary) that doesn't cleanly fit either our 'secondary' or 'tertiary' bucket; we excluded it from this crosstab rather than force-fit it. Its transcribed total is 9.60/1.15/2.21/0.79/0.53/0.22/3.21/0.09/0.26/5.47/0.19/0.28 (hours/day, same 12-column Table 3 order) for reference."
+    },
+    {
+      "level": "tertiary",
+      "categoryMinutes": {
+        "sleep": 520.79,
+        "personal_care": 44.41,
+        "eating": 79.8,
+        "paid_work": 243.0,
+        "education": 10.8,
+        "household": 123.6,
+        "caregiving": 46.2,
+        "shopping": 44.4,
+        "commute": 0.0,
+        "screen_leisure": 0.0,
+        "socializing": 289.2,
+        "exercise": 0.0,
+        "civic_religious": 18.6,
+        "other": 19.2
+      },
+      "sampleNote": "U.S. population 25 years and over, 2025 annual averages. Source: BLS ATUS Table 3 (Educational attainment section). Table 3 embeds travel time inside each parent category, so commute could not be isolated and is reported as 0 (folded into paid_work/household/shopping/etc). Table 3/11A do not cross educational attainment with the TV-vs-other leisure split, so per the task's fallback instruction the full leisure+telephone bucket is placed in socializing (screen_leisure=0, exercise=0 for these rows). Sleep was estimated via the same national sleep-share-of-personal-care ratio described for the age rows (documented estimate, not directly transcribed by education level). Maps to ATUS's 'Bachelor's degree and higher' (includes both 'Bachelor's degree only' and 'Advanced degree' sub-rows, which ATUS also publishes separately)."
+    }
+  ],
+  "income": []
+}

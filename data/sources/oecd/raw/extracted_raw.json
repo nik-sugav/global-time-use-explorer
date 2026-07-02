@@ -1,0 +1,1163 @@
+{
+  "Total": {
+    "Australia*": {
+      "year": 2006,
+      "categories": {
+        "paid_work_or_study": 238.16539263377345,
+        "unpaid_work": 243.16886726893674,
+        "personal_care": 657.4565670604587,
+        "leisure": 281.1952744961779,
+        "other": 20.01389854065323
+      },
+      "total_check": 1440
+    },
+    "Austria": {
+      "year": "2021/22",
+      "categories": {
+        "paid_work_or_study": 265.64036,
+        "unpaid_work": 187.97064,
+        "personal_care": 667.66179,
+        "leisure": 306.87112,
+        "other": 11.85609
+      },
+      "total_check": 1440
+    },
+    "Belgium*": {
+      "year": 2013,
+      "categories": {
+        "paid_work_or_study": 235.75362369589035,
+        "unpaid_work": 191.82015613289278,
+        "personal_care": 664.0463508498556,
+        "leisure": 339.3501437357283,
+        "other": 9.221280025750549
+      },
+      "total_check": 1440.1915544401177
+    },
+    "Canada": {
+      "year": "2022",
+      "categories": {
+        "paid_work_or_study": 336.9576149225235,
+        "unpaid_work": 205.2867884874344,
+        "personal_care": 655.9601171493531,
+        "leisure": 211.2718260526657,
+        "other": 30.52369158267975
+      },
+      "total_check": 1440
+    },
+    "Denmark": {
+      "year": 2001,
+      "categories": {
+        "paid_work_or_study": 224.81659361993823,
+        "unpaid_work": 216.62734139108395,
+        "personal_care": 659.359294963398,
+        "leisure": 328.8448130868771,
+        "other": 10.351956938702461
+      },
+      "total_check": 1440
+    },
+    "Estonia*": {
+      "year": "2019/21",
+      "categories": {
+        "paid_work_or_study": 293.0617460827489,
+        "unpaid_work": 173.6609760271585,
+        "personal_care": 653.8213601505777,
+        "leisure": 301.154043831466,
+        "other": 18.30182231297044
+      },
+      "total_check": 1440
+    },
+    "Finland*": {
+      "year": "2020/21",
+      "categories": {
+        "paid_work_or_study": 240.1075538143923,
+        "unpaid_work": 185.5460387639705,
+        "personal_care": 644.6943764167372,
+        "leisure": 329.8066046107924,
+        "other": 39.84541460032233
+      },
+      "total_check": 1440
+    },
+    "France": {
+      "year": "2009/10",
+      "categories": {
+        "paid_work_or_study": 204.16514446634596,
+        "unpaid_work": 181.09854971438716,
+        "personal_care": 752.2465440900057,
+        "leisure": 293.5426472048607,
+        "other": 8.947114524400323
+      },
+      "total_check": 1440
+    },
+    "Germany*": {
+      "year": "2022",
+      "categories": {
+        "paid_work_or_study": 244.0472447529974,
+        "unpaid_work": 192.3543357491108,
+        "personal_care": 657.6023933156685,
+        "leisure": 340.8828350205731,
+        "other": 5.113101586905259
+      },
+      "total_check": 1440
+    },
+    "Greece*": {
+      "year": "2013/14",
+      "categories": {
+        "paid_work_or_study": 230,
+        "unpaid_work": 184,
+        "personal_care": 685,
+        "leisure": 335,
+        "other": 6
+      },
+      "total_check": 1440
+    },
+    "Hungary*": {
+      "year": 2010,
+      "categories": {
+        "paid_work_or_study": 237.61400343162168,
+        "unpaid_work": 229.1589559863795,
+        "personal_care": 683.1391522100018,
+        "leisure": 281.349701323258,
+        "other": 8.738187048738542
+      },
+      "total_check": 1440
+    },
+    "Ireland": {
+      "year": 2005,
+      "categories": {
+        "paid_work_or_study": 267.96129,
+        "unpaid_work": 209.641482,
+        "personal_care": 608.91367,
+        "leisure": 312.31158,
+        "other": 41.172009
+      },
+      "total_check": 1440
+    },
+    "Italy ": {
+      "year": "2013/2014",
+      "categories": {
+        "paid_work_or_study": 176.70905816185982,
+        "unpaid_work": 219.0387454375628,
+        "personal_care": 707.8082180025212,
+        "leisure": 323.2586169388967,
+        "other": 13.185361459159635
+      },
+      "total_check": 1440
+    },
+    "Japan": {
+      "year": 2021,
+      "categories": {
+        "paid_work_or_study": 368,
+        "unpaid_work": 125,
+        "personal_care": 640,
+        "leisure": 269,
+        "other": 37
+      },
+      "total_check": 1440.1092599257634
+    },
+    "Korea": {
+      "year": 2014,
+      "categories": {
+        "paid_work_or_study": 344.4523671933669,
+        "unpaid_work": 131.70642802559914,
+        "personal_care": 677.8474210755979,
+        "leisure": 258.2602038410492,
+        "other": 27.733579864387764
+      },
+      "total_check": 1440.000000000001
+    },
+    "Latvia": {
+      "year": 2003,
+      "categories": {
+        "paid_work_or_study": 329.93842687466713,
+        "unpaid_work": 196.07454389135427,
+        "personal_care": 641.2962077117418,
+        "leisure": 268.8413141153819,
+        "other": 3.8495074068550146
+      },
+      "total_check": 1440.0000000000002
+    },
+    "Lithuania* **": {
+      "year": 2003,
+      "categories": {
+        "paid_work_or_study": 315.21515016090154,
+        "unpaid_work": 224.4713250680961,
+        "personal_care": 645.5386495136155,
+        "leisure": 246.60680300744264,
+        "other": 8.1680722499444
+      },
+      "total_check": 1440
+    },
+    "Luxembourg*": {
+      "year": 2013,
+      "categories": {
+        "paid_work_or_study": 284.68813449673746,
+        "unpaid_work": 179.15560398654182,
+        "personal_care": 685.6682309521727,
+        "leisure": 276.3856997791441,
+        "other": 14.063417194944442
+      },
+      "total_check": 1439.9610864095407
+    },
+    "Mexico*": {
+      "year": "2024",
+      "categories": {
+        "paid_work_or_study": 348.9026101078472,
+        "unpaid_work": 256.0323568728455,
+        "personal_care": 606.0680034474423,
+        "leisure": 202.8339086216768,
+        "other": 26.16312095018906
+      },
+      "total_check": 1440
+    },
+    "Netherlands": {
+      "year": 2016,
+      "categories": {
+        "paid_work_or_study": 242.78703277641156,
+        "unpaid_work": 185.56138244143753,
+        "personal_care": 681.5906200142057,
+        "leisure": 314.7639948460047,
+        "other": 15.296654685888262
+      },
+      "total_check": 1439.9996847639477
+    },
+    "New Zealand": {
+      "year": "2009/10",
+      "categories": {
+        "paid_work_or_study": 270,
+        "unpaid_work": 204,
+        "personal_care": 648,
+        "leisure": 301,
+        "other": 17
+      },
+      "total_check": 1440
+    },
+    "Norway*": {
+      "year": "2022",
+      "categories": {
+        "paid_work_or_study": 275.4040250616526,
+        "unpaid_work": 185.5816874872471,
+        "personal_care": 613.3337852059776,
+        "leisure": 353.9677560636846,
+        "other": 11.71282213667382
+      },
+      "total_check": 1440
+    },
+    "Poland*": {
+      "year": "2023",
+      "categories": {
+        "paid_work_or_study": 214,
+        "unpaid_work": 248,
+        "personal_care": 682,
+        "leisure": 261,
+        "other": 35
+      },
+      "total_check": 1440
+    },
+    "Portugal": {
+      "year": 1999,
+      "categories": {
+        "paid_work_or_study": 295.04895104895104,
+        "unpaid_work": 222.54545454545453,
+        "personal_care": 675.6923076923077,
+        "leisure": 240.67132867132867,
+        "other": 6.041958041958042
+      },
+      "total_check": 1440
+    },
+    "Slovenia": {
+      "year": "2000/01",
+      "categories": {
+        "paid_work_or_study": 264.63245492371703,
+        "unpaid_work": 230.67961165048544,
+        "personal_care": 628.127600554785,
+        "leisure": 310.56865464632455,
+        "other": 5.991678224687933
+      },
+      "total_check": 1440
+    },
+    "Spain": {
+      "year": "2009/10",
+      "categories": {
+        "paid_work_or_study": 202.0047329,
+        "unpaid_work": 216.72910549999997,
+        "personal_care": 691.79239,
+        "leisure": 316.049266,
+        "other": 13.424608000000001
+      },
+      "total_check": 1440.0001023999998
+    },
+    "Sweden": {
+      "year": 2010,
+      "categories": {
+        "paid_work_or_study": 293.406871774976,
+        "unpaid_work": 196.499173777816,
+        "personal_care": 622.4695254203599,
+        "leisure": 321.484572513213,
+        "other": 6.13985651363188
+      },
+      "total_check": 1439.9999999999968
+    },
+    "T\u00fcrkiye": {
+      "year": "2014/15",
+      "categories": {
+        "paid_work_or_study": 246.3159874,
+        "unpaid_work": 186.08949200000004,
+        "personal_care": 681.7966899999999,
+        "leisure": 285.730729,
+        "other": 40.096759000000006
+      },
+      "total_check": 1440.0296574
+    },
+    "United Kingdom": {
+      "year": "2014/2015",
+      "categories": {
+        "paid_work_or_study": 262.2649098679274,
+        "unpaid_work": 194.52788505857268,
+        "personal_care": 645.2043743427703,
+        "leisure": 305.5309365147898,
+        "other": 32.4718942159398
+      },
+      "total_check": 1439.9999999999998
+    },
+    "United States": {
+      "year": "2024",
+      "categories": {
+        "paid_work_or_study": 278.2070922851563,
+        "unpaid_work": 197.1237487792969,
+        "personal_care": 664.044677734375,
+        "leisure": 279.8567504882813,
+        "other": 20.76772117614746
+      },
+      "total_check": 1440
+    },
+    "Bulgaria*": {
+      "year": "2020",
+      "categories": {
+        "paid_work_or_study": 281.9239126480243,
+        "unpaid_work": 188.9728843054618,
+        "personal_care": 723.0529003197444,
+        "leisure": 240.9749932378181,
+        "other": 5.075247381906593
+      },
+      "total_check": 1440
+    },
+    "Croatia": {
+      "year": "2022/23",
+      "categories": {
+        "paid_work_or_study": 321.4575309252739,
+        "unpaid_work": 202.9133916139603,
+        "personal_care": 654.7835809826851,
+        "leisure": 250.5688207268715,
+        "other": 10.2766464471817
+      },
+      "total_check": 1440
+    },
+    "China*": {
+      "year": 2008,
+      "categories": {
+        "paid_work_or_study": 339.76405274115194,
+        "unpaid_work": 163.88619014573212,
+        "personal_care": 693.5183900069396,
+        "leisure": 227.84177654406665,
+        "other": 14.989590562109647
+      },
+      "total_check": 1440
+    },
+    "India": {
+      "year": "1998/99",
+      "categories": {
+        "paid_work_or_study": 294.9794155060014,
+        "unpaid_work": 191.1461441190226,
+        "personal_care": 687.4899147670492,
+        "leisure": 253.99612273410077,
+        "other": 12.388402873825923
+      },
+      "total_check": 1440
+    },
+    "South Africa": {
+      "year": 2010,
+      "categories": {
+        "paid_work_or_study": 240.57606,
+        "unpaid_work": 182.2847917,
+        "personal_care": 695.07884,
+        "leisure": 305.898196,
+        "other": 16.1621313
+      },
+      "total_check": 1440.000019
+    }
+  },
+  "Men": {
+    "Australia*": {
+      "year": 2006,
+      "categories": {
+        "paid_work_or_study": 304.05574912891984,
+        "unpaid_work": 171.595818815331,
+        "personal_care": 649.2543554006969,
+        "leisure": 297.0313588850174,
+        "other": 18.062717770034844
+      },
+      "total_check": 1440
+    },
+    "Austria": {
+      "year": "2021/22",
+      "categories": {
+        "paid_work_or_study": 311.85469,
+        "unpaid_work": 138.51473,
+        "personal_care": 657.36157,
+        "leisure": 321.9786,
+        "other": 10.29041
+      },
+      "total_check": 1439.7814578600774
+    },
+    "Belgium*": {
+      "year": 2013,
+      "categories": {
+        "paid_work_or_study": 273.70408188101857,
+        "unpaid_work": 144.1723784789722,
+        "personal_care": 648.4574378836431,
+        "leisure": 365.17312994382337,
+        "other": 8.492971812542818
+      },
+      "total_check": 1440
+    },
+    "Canada": {
+      "year": "2022",
+      "categories": {
+        "paid_work_or_study": 370.9181606769562,
+        "unpaid_work": 163.9218968153,
+        "personal_care": 647.9102709889412,
+        "leisure": 225.542171895504,
+        "other": 31.70752018690109
+      },
+      "total_check": 1440
+    },
+    "Denmark": {
+      "year": 2001,
+      "categories": {
+        "paid_work_or_study": 260.0677509201187,
+        "unpaid_work": 186.1360818597189,
+        "personal_care": 643.0395039163835,
+        "leisure": 339.54260568160714,
+        "other": 11.214057622171694
+      },
+      "total_check": 1440
+    },
+    "Estonia*": {
+      "year": "2019/21",
+      "categories": {
+        "paid_work_or_study": 307.838805529711,
+        "unpaid_work": 139.1877155319089,
+        "personal_care": 650.6922958425421,
+        "leisure": 324.78124626106,
+        "other": 17.50003769449631
+      },
+      "total_check": 1440
+    },
+    "Finland*": {
+      "year": "2020/21",
+      "categories": {
+        "paid_work_or_study": 257.1629255679181,
+        "unpaid_work": 161.9876902644955,
+        "personal_care": 628.1086800471676,
+        "leisure": 350.2876814612973,
+        "other": 42.45290363118511
+      },
+      "total_check": 1440
+    },
+    "France": {
+      "year": "2009/10",
+      "categories": {
+        "paid_work_or_study": 235.13206520974788,
+        "unpaid_work": 134.9394533218045,
+        "personal_care": 742.955399211535,
+        "leisure": 319.1308068430148,
+        "other": 7.84227541389787
+      },
+      "total_check": 1440
+    },
+    "Germany*": {
+      "year": "2022",
+      "categories": {
+        "paid_work_or_study": 276.8118413558186,
+        "unpaid_work": 151.6411567791456,
+        "personal_care": 649.1808861504323,
+        "leisure": 358.0432393418123,
+        "other": 4.322738619890345
+      },
+      "total_check": 1440
+    },
+    "Greece*": {
+      "year": "2013/14",
+      "categories": {
+        "paid_work_or_study": 276,
+        "unpaid_work": 97,
+        "personal_care": 689,
+        "leisure": 375,
+        "other": 3
+      },
+      "total_check": 1440
+    },
+    "Hungary*": {
+      "year": 2010,
+      "categories": {
+        "paid_work_or_study": 272.6571112996856,
+        "unpaid_work": 162.34104598012914,
+        "personal_care": 686.293115347827,
+        "leisure": 308.1571164826958,
+        "other": 10.551610889662406
+      },
+      "total_check": 1440
+    },
+    "Ireland": {
+      "year": 2005,
+      "categories": {
+        "paid_work_or_study": 340.81053,
+        "unpaid_work": 126.97815100000001,
+        "personal_care": 594.72988,
+        "leisure": 337.57702,
+        "other": 39.90444
+      },
+      "total_check": 1440
+    },
+    "Italy ": {
+      "year": "2013/2014",
+      "categories": {
+        "paid_work_or_study": 220.81396676153466,
+        "unpaid_work": 130.70904349081948,
+        "personal_care": 710.318418441344,
+        "leisure": 366.0957532175384,
+        "other": 12.062818088763349
+      },
+      "total_check": 1440
+    },
+    "Japan": {
+      "year": 2021,
+      "categories": {
+        "paid_work_or_study": 442,
+        "unpaid_work": 47,
+        "personal_care": 632,
+        "leisure": 284,
+        "other": 34
+      },
+      "total_check": 1440.1661220547167
+    },
+    "Korea": {
+      "year": 2014,
+      "categories": {
+        "paid_work_or_study": 418.9860898648673,
+        "unpaid_work": 48.99448486082721,
+        "personal_care": 675.8324245859114,
+        "leisure": 272.4477894006414,
+        "other": 23.73921128774989
+      },
+      "total_check": 1439.999999999997
+    },
+    "Latvia": {
+      "year": 2003,
+      "categories": {
+        "paid_work_or_study": 376.93106909732,
+        "unpaid_work": 129.72689715060244,
+        "personal_care": 639.6029005427647,
+        "leisure": 290.47875347106975,
+        "other": 3.2603797382429387
+      },
+      "total_check": 1439.9999999999998
+    },
+    "Lithuania* **": {
+      "year": 2003,
+      "categories": {
+        "paid_work_or_study": 354.26273205205433,
+        "unpaid_work": 151.61080552029992,
+        "personal_care": 644.3234896437153,
+        "leisure": 282.1978318536201,
+        "other": 7.605140930310332
+      },
+      "total_check": 1440
+    },
+    "Luxembourg*": {
+      "year": 2013,
+      "categories": {
+        "paid_work_or_study": 329.99501858754644,
+        "unpaid_work": 121.07518141647196,
+        "personal_care": 676.8633895592102,
+        "leisure": 299.0413947357633,
+        "other": 13.025015701008268
+      },
+      "total_check": 1440
+    },
+    "Mexico*": {
+      "year": "2024",
+      "categories": {
+        "paid_work_or_study": 453.6647626094627,
+        "unpaid_work": 147.3593701992012,
+        "personal_care": 600.3436508065374,
+        "leisure": 212.8435502473632,
+        "other": 25.78866613743532
+      },
+      "total_check": 1440
+    },
+    "Netherlands": {
+      "year": 2016,
+      "categories": {
+        "paid_work_or_study": 284.93920573115,
+        "unpaid_work": 145.41706987814166,
+        "personal_care": 666.2325399847678,
+        "leisure": 329.58532083015996,
+        "other": 13.825582539984765
+      },
+      "total_check": 1440
+    },
+    "New Zealand": {
+      "year": "2009/10",
+      "categories": {
+        "paid_work_or_study": 338,
+        "unpaid_work": 141,
+        "personal_care": 639,
+        "leisure": 306,
+        "other": 16
+      },
+      "total_check": 1440
+    },
+    "Norway*": {
+      "year": "2022",
+      "categories": {
+        "paid_work_or_study": 302.7527807329188,
+        "unpaid_work": 159.9324033858484,
+        "personal_care": 595.8561632836172,
+        "leisure": 367.0875411438028,
+        "other": 14.37108487250805
+      },
+      "total_check": 1440
+    },
+    "Poland*": {
+      "year": "2023",
+      "categories": {
+        "paid_work_or_study": 272.2437744140625,
+        "unpaid_work": 189.4736938476563,
+        "personal_care": 665.15234375,
+        "leisure": 281.2188415527344,
+        "other": 31.91135787963867
+      },
+      "total_check": 1440
+    },
+    "Portugal": {
+      "year": 1999,
+      "categories": {
+        "paid_work_or_study": 372.3270440251572,
+        "unpaid_work": 96.26834381551363,
+        "personal_care": 677.2327044025159,
+        "leisure": 289.14046121593293,
+        "other": 5.031446540880503
+      },
+      "total_check": 1440
+    },
+    "Slovenia": {
+      "year": "2000/01",
+      "categories": {
+        "paid_work_or_study": 299.8328690807799,
+        "unpaid_work": 166.4623955431755,
+        "personal_care": 631.7548746518106,
+        "leisure": 336.9359331476323,
+        "other": 5.013927576601671
+      },
+      "total_check": 1440
+    },
+    "Spain": {
+      "year": "2009/10",
+      "categories": {
+        "paid_work_or_study": 236.2291275,
+        "unpaid_work": 145.90931270000002,
+        "personal_care": 696.87999,
+        "leisure": 347.16925599999996,
+        "other": 13.661777
+      },
+      "total_check": 1439.8494632
+    },
+    "Sweden": {
+      "year": 2010,
+      "categories": {
+        "paid_work_or_study": 313,
+        "unpaid_work": 171,
+        "personal_care": 611,
+        "leisure": 338,
+        "other": 7
+      },
+      "total_check": 1440
+    },
+    "T\u00fcrkiye": {
+      "year": "2014/15",
+      "categories": {
+        "paid_work_or_study": 358.25011049999995,
+        "unpaid_work": 67.5917389,
+        "personal_care": 679.09766,
+        "leisure": 300.954951,
+        "other": 34.116820000000004
+      },
+      "total_check": 1440.0112803999998
+    },
+    "United Kingdom": {
+      "year": "2014/2015",
+      "categories": {
+        "paid_work_or_study": 308.61597517412645,
+        "unpaid_work": 140.08179519029616,
+        "personal_care": 634.916891715024,
+        "leisure": 326.51573343354073,
+        "other": 29.869604487012744
+      },
+      "total_check": 1440
+    },
+    "United States": {
+      "year": "2024",
+      "categories": {
+        "paid_work_or_study": 305.4640197753906,
+        "unpaid_work": 159.1027221679688,
+        "personal_care": 652.3013305664062,
+        "leisure": 304.9129943847656,
+        "other": 18.21895408630371
+      },
+      "total_check": 1440
+    },
+    "Bulgaria*": {
+      "year": "2020",
+      "categories": {
+        "paid_work_or_study": 305.8773481019307,
+        "unpaid_work": 125.7576728756612,
+        "personal_care": 732.6054208993446,
+        "leisure": 271.2749164667912,
+        "other": 4.484730637800567
+      },
+      "total_check": 1440
+    },
+    "Croatia": {
+      "year": "2022/23",
+      "categories": {
+        "paid_work_or_study": 344.4357084274292,
+        "unpaid_work": 148.9724865674973,
+        "personal_care": 661.1791093111038,
+        "leisure": 275.6092068314552,
+        "other": 9.803481137752533
+      },
+      "total_check": 1440
+    },
+    "China*": {
+      "year": 2008,
+      "categories": {
+        "paid_work_or_study": 390,
+        "unpaid_work": 91,
+        "personal_care": 696,
+        "leisure": 248,
+        "other": 15
+      },
+      "total_check": 1440
+    },
+    "India": {
+      "year": "1998/99",
+      "categories": {
+        "paid_work_or_study": 390.5710873020025,
+        "unpaid_work": 51.767242334305,
+        "personal_care": 702.771927389694,
+        "leisure": 282.6432935175763,
+        "other": 12.246449456421935
+      },
+      "total_check": 1440
+    },
+    "South Africa": {
+      "year": 2010,
+      "categories": {
+        "paid_work_or_study": 294.16317,
+        "unpaid_work": 102.93914110000001,
+        "personal_care": 695.3722700000001,
+        "leisure": 334.19431999999995,
+        "other": 13.1774
+      },
+      "total_check": 1439.8463011
+    }
+  },
+  "Women": {
+    "Australia*": {
+      "year": 2006,
+      "categories": {
+        "paid_work_or_study": 172,
+        "unpaid_work": 311,
+        "personal_care": 666,
+        "leisure": 269,
+        "other": 22
+      },
+      "total_check": 1440
+    },
+    "Austria": {
+      "year": "2021/22",
+      "categories": {
+        "paid_work_or_study": 219.07872,
+        "unpaid_work": 237.79821,
+        "personal_care": 678.03942,
+        "leisure": 291.65012,
+        "other": 13.43353
+      },
+      "total_check": 1440.2147135
+    },
+    "Belgium*": {
+      "year": 2013,
+      "categories": {
+        "paid_work_or_study": 199.23249736273337,
+        "unpaid_work": 237.32297201649885,
+        "personal_care": 677.3972173785704,
+        "leisure": 316.7066524204549,
+        "other": 9.034267382231466
+      },
+      "total_check": 1440
+    },
+    "Canada": {
+      "year": "2022",
+      "categories": {
+        "paid_work_or_study": 302.8429008007049,
+        "unpaid_work": 247.1820514440536,
+        "personal_care": 663.7406659841537,
+        "leisure": 196.9077358961106,
+        "other": 29.32668406963348
+      },
+      "total_check": 1440
+    },
+    "Denmark": {
+      "year": 2001,
+      "categories": {
+        "paid_work_or_study": 194.58598564497333,
+        "unpaid_work": 242.80872090772155,
+        "personal_care": 673.3785440515513,
+        "leisure": 319.61254445197494,
+        "other": 9.614204943779034
+      },
+      "total_check": 1440
+    },
+    "Estonia*": {
+      "year": "2019/21",
+      "categories": {
+        "paid_work_or_study": 277.9777636600193,
+        "unpaid_work": 209.3691550883705,
+        "personal_care": 656.2836798457465,
+        "leisure": 277.3086775283355,
+        "other": 19.06068228782487
+      },
+      "total_check": 1440
+    },
+    "Finland*": {
+      "year": "2020/21",
+      "categories": {
+        "paid_work_or_study": 222.1317071922058,
+        "unpaid_work": 208.7486499168554,
+        "personal_care": 663.3762942606772,
+        "leisure": 308.540555071002,
+        "other": 37.20277393633023
+      },
+      "total_check": 1440
+    },
+    "France": {
+      "year": "2009/10",
+      "categories": {
+        "paid_work_or_study": 175.3629890807955,
+        "unpaid_work": 224.03084764937225,
+        "personal_care": 760.8880667362241,
+        "leisure": 269.74337965874224,
+        "other": 9.974716874865793
+      },
+      "total_check": 1440
+    },
+    "Germany*": {
+      "year": "2022",
+      "categories": {
+        "paid_work_or_study": 209.8819207645956,
+        "unpaid_work": 232.6213568553285,
+        "personal_care": 667.2448304086938,
+        "leisure": 324.460858939834,
+        "other": 5.791135973939788
+      },
+      "total_check": 1440
+    },
+    "Greece*": {
+      "year": "2013/14",
+      "categories": {
+        "paid_work_or_study": 183,
+        "unpaid_work": 260,
+        "personal_care": 680,
+        "leisure": 310,
+        "other": 7
+      },
+      "total_check": 1440
+    },
+    "Hungary*": {
+      "year": 2010,
+      "categories": {
+        "paid_work_or_study": 202.5062547141538,
+        "unpaid_work": 293.76732468358944,
+        "personal_care": 679.2718151642258,
+        "leisure": 256.84115687738944,
+        "other": 7.613448560641702
+      },
+      "total_check": 1440
+    },
+    "Ireland": {
+      "year": 2005,
+      "categories": {
+        "paid_work_or_study": 194.9327,
+        "unpaid_work": 292.50830299999996,
+        "personal_care": 623.13239,
+        "leisure": 286.98392,
+        "other": 42.442702
+      },
+      "total_check": 1440
+    },
+    "Italy ": {
+      "year": "2013/2014",
+      "categories": {
+        "paid_work_or_study": 133.11971288918906,
+        "unpaid_work": 306.3359411820309,
+        "personal_care": 705.327315056609,
+        "leisure": 280.922253677419,
+        "other": 14.2947771947521
+      },
+      "total_check": 1440
+    },
+    "Japan": {
+      "year": 2021,
+      "categories": {
+        "paid_work_or_study": 292,
+        "unpaid_work": 208,
+        "personal_care": 647,
+        "leisure": 254,
+        "other": 40
+      },
+      "total_check": 1439.85168683045
+    },
+    "Korea": {
+      "year": 2014,
+      "categories": {
+        "paid_work_or_study": 269.38647176128524,
+        "unpaid_work": 215.00893666260768,
+        "personal_care": 679.8768046937686,
+        "leisure": 243.97131854353154,
+        "other": 31.756468338811743
+      },
+      "total_check": 1440
+    },
+    "Latvia": {
+      "year": 2003,
+      "categories": {
+        "paid_work_or_study": 288.4683088837414,
+        "unpaid_work": 253.2541126241999,
+        "personal_care": 643.6935653416872,
+        "leisure": 249.248179830482,
+        "other": 5.335833319889623
+      },
+      "total_check": 1440.0000000000002
+    },
+    "Lithuania* **": {
+      "year": 2003,
+      "categories": {
+        "paid_work_or_study": 279.2573938829227,
+        "unpaid_work": 291.95165906622367,
+        "personal_care": 644.7976666568609,
+        "leisure": 215.29885787094165,
+        "other": 8.694422523051315
+      },
+      "total_check": 1440
+    },
+    "Luxembourg*": {
+      "year": 2013,
+      "categories": {
+        "paid_work_or_study": 238.86638993384352,
+        "unpaid_work": 239.61742768193025,
+        "personal_care": 694.0124529770399,
+        "leisure": 253.0232196134388,
+        "other": 14.512388117784408
+      },
+      "total_check": 1440.0318783240368
+    },
+    "Mexico*": {
+      "year": "2024",
+      "categories": {
+        "paid_work_or_study": 259.746560151323,
+        "unpaid_work": 348.5166558056178,
+        "personal_care": 610.9396165045847,
+        "leisure": 194.3153731819544,
+        "other": 26.48179435652076
+      },
+      "total_check": 1440
+    },
+    "Netherlands": {
+      "year": 2016,
+      "categories": {
+        "paid_work_or_study": 201.43256945233304,
+        "unpaid_work": 224.94610999729392,
+        "personal_care": 696.6580496667965,
+        "leisure": 300.2230457504289,
+        "other": 16.739884275353052
+      },
+      "total_check": 1440
+    },
+    "New Zealand": {
+      "year": "2009/10",
+      "categories": {
+        "paid_work_or_study": 205,
+        "unpaid_work": 264,
+        "personal_care": 656,
+        "leisure": 295,
+        "other": 19
+      },
+      "total_check": 1440
+    },
+    "Norway*": {
+      "year": "2022",
+      "categories": {
+        "paid_work_or_study": 247.0426846228656,
+        "unpaid_work": 212.0595525406825,
+        "personal_care": 631.9975481475703,
+        "leisure": 339.7890298592829,
+        "other": 9.111162115055777
+      },
+      "total_check": 1440
+    },
+    "Poland*": {
+      "year": "2023",
+      "categories": {
+        "paid_work_or_study": 171.7614440917969,
+        "unpaid_work": 292.5936279296875,
+        "personal_care": 693.0374755859375,
+        "leisure": 245.6588134765625,
+        "other": 36.94868469238281
+      },
+      "total_check": 1440
+    },
+    "Portugal": {
+      "year": 1999,
+      "categories": {
+        "paid_work_or_study": 231.28491620111734,
+        "unpaid_work": 328.1564245810056,
+        "personal_care": 673.7430167597765,
+        "leisure": 199.77653631284915,
+        "other": 7.039106145251397
+      },
+      "total_check": 1440
+    },
+    "Slovenia": {
+      "year": "2000/01",
+      "categories": {
+        "paid_work_or_study": 234.1626129256428,
+        "unpaid_work": 286.1987491313412,
+        "personal_care": 630.4378040305768,
+        "leisure": 283.1966643502432,
+        "other": 6.004169562195969
+      },
+      "total_check": 1440
+    },
+    "Spain": {
+      "year": "2009/10",
+      "categories": {
+        "paid_work_or_study": 166.75361959999998,
+        "unpaid_work": 289.1279055,
+        "personal_care": 686.55228,
+        "leisure": 283.995586,
+        "other": 13.180323
+      },
+      "total_check": 1439.6097141
+    },
+    "Sweden": {
+      "year": 2010,
+      "categories": {
+        "paid_work_or_study": 275.19110493398193,
+        "unpaid_work": 220.15288394718553,
+        "personal_care": 633.4398888116748,
+        "leisure": 306.21264767199443,
+        "other": 5.0034746351633075
+      },
+      "total_check": 1440
+    },
+    "T\u00fcrkiye": {
+      "year": "2014/15",
+      "categories": {
+        "paid_work_or_study": 133.9472367,
+        "unpaid_work": 305.047395,
+        "personal_care": 684.5061400000001,
+        "leisure": 270.447376,
+        "other": 46.099934999999995
+      },
+      "total_check": 1440.0480827000001
+    },
+    "United Kingdom": {
+      "year": "2014/2015",
+      "categories": {
+        "paid_work_or_study": 216.20476138540417,
+        "unpaid_work": 248.63229019063292,
+        "personal_care": 655.4271520725591,
+        "leisure": 284.67795888641,
+        "other": 35.057837464993824
+      },
+      "total_check": 1440
+    },
+    "United States": {
+      "year": "2024",
+      "categories": {
+        "paid_work_or_study": 251.2713317871094,
+        "unpaid_work": 234.6967315673828,
+        "personal_care": 675.649658203125,
+        "leisure": 255.0957946777344,
+        "other": 23.28645515441895
+      },
+      "total_check": 1440
+    },
+    "Bulgaria*": {
+      "year": "2020",
+      "categories": {
+        "paid_work_or_study": 256.2035828670196,
+        "unpaid_work": 256.8914075582143,
+        "personal_care": 711.4045425380755,
+        "leisure": 210.4779688950293,
+        "other": 5.022587518158161
+      },
+      "total_check": 1440
+    },
+    "Croatia": {
+      "year": "2022/23",
+      "categories": {
+        "paid_work_or_study": 298.1042261123657,
+        "unpaid_work": 257.7275755405426,
+        "personal_care": 648.3365160226822,
+        "leisure": 225.0847610235214,
+        "other": 10.7470189332962
+      },
+      "total_check": 1440
+    },
+    "China*": {
+      "year": 2008,
+      "categories": {
+        "paid_work_or_study": 291,
+        "unpaid_work": 234,
+        "personal_care": 692,
+        "leisure": 211,
+        "other": 12
+      },
+      "total_check": 1440
+    },
+    "India": {
+      "year": "1998/99",
+      "categories": {
+        "paid_work_or_study": 184.70367524046912,
+        "unpaid_work": 351.93530639285547,
+        "personal_care": 669.8603668827524,
+        "leisure": 220.94849366325897,
+        "other": 12.552157820664268
+      },
+      "total_check": 1440
+    },
+    "South Africa": {
+      "year": 2010,
+      "categories": {
+        "paid_work_or_study": 195.03345,
+        "unpaid_work": 249.5884149,
+        "personal_care": 694.8294599999999,
+        "leisure": 281.849864,
+        "other": 18.698800799999997
+      },
+      "total_check": 1440
+    }
+  }
+}
